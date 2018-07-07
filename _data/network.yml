@@ -1,5 +1,10 @@
 - menu_name: "Dankeschön"
 
+- name: "Jekyll Theme by Phlow"
+  url: "https://phlow.github.io/feeling-responsive/"
+  class: "jekyll-theme"
+  title: "Jekyll Theme by Phlow"
+
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
