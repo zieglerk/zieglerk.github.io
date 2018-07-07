@@ -8,17 +8,16 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Konstantin Ziegler"
-
+title: 'Konstantin Ziegler'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Bits of Cryptography and Machine Learning"
+slogan: 'Bits of Cryptography and Machine Learning'
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Konstantin Ziegler is full professor of mathematics and
+description: 'Konstantin Ziegler is full professor of mathematics and
 	physics at the University of Applied Sciences Landshut. This is
-	his private homepage."
+	his private homepage.'
 
 # Main author of the website
 # See > authors.yml
