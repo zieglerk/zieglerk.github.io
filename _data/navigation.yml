@@ -27,7 +27,7 @@
   url: "/research/"
   side: left
   dropdown:
-  - title: "Crytographic Protocols"|
+  - title: "Crytographic Protocols"
     url: "/research/crypto/"
   - title: "Machine Learning"
     url: "/research/datsci"
