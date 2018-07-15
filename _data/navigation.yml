@@ -23,7 +23,25 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-#
+- title: Research
+  url: "/research/"
+  side: left
+  dropdown:
+  - title: "Crytographic Protocols"|
+    url: "/research/crypto/"
+  - title: "Machine Learning"
+    url: "/research/datsci"
+  - title: "Polynomials over Finite Fields"
+    url: "/research/compalg"
+
+- title: Teaching
+  url: "/teaching/"
+	side: left
+
+- title: Software
+
+
+	    #
 #   Navigation to the right › side: right
 #
 - title: "Info"
