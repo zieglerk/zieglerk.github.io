@@ -19,7 +19,7 @@ image:
 author: zieglerk
 ---
 
-Cryptographic Protocols
+Cryptographic Protocols (via pages/research/datsci.md)
 
 Alice and Bob are two millionaires. They want to determine who is richer, but do not want to disclose their actual wealth. A possible solution is to provide a trusted third party with their accounts' balances and let this party announce who is richer. The use this crutch is unsatisfactory and leaves every cryptographer with an uncomfortable feeling. Through secure multi-party computations, we provide Alice and Bob with a protocol to jointly compute the answer to their question using cryptographic primitives instead of a trusted third party.
 
