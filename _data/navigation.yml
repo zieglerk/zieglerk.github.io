@@ -1,27 +1,9 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Main
   url: "/"
   side: left
-
-- title: "Dropdown Menu"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: Research
   url: "/research/"
@@ -42,10 +24,27 @@
   url: "/software/"
   side: left
 
+- title: Publications
+  url: "/publications/"
+  side: left
+
+- title: Talks
+  url: "/talks/"
+  side: left
+
+
+
 
 #
 #   Navigation to the right › side: right
 #
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
 - title: "Info"
   url: "/info/"
   side: right
