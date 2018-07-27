@@ -19,26 +19,26 @@ permalink: "/talks/"
 
 - The 26th IEEE International Conference on Enabling Technologies:
   Infrastructure for Collaborative Enterprises WETICE-2017, Poznan,
-  Poland, 21&#x2013;23 June 2017
+  Poland, 21--23 June 2017
 
 
 ## Injecting Semantic Background Knowledge into Neural Networks using Graph Embeddings
 
 - The 26th IEEE International Conference on Enabling Technologies:
   Infrastructure for Collaborative Enterprises WETICE-2017, Poznan,
-  Poland, 21&#x2013;23 June 2017
+  Poland, 21--23 June 2017
 
 
 ## Deep Learning: Trends und Möglichkeiten zur Wertschöpfung mit Daten
 
 - INTERREG BY/CZ Kongress Wissens- und Technologietransfer
   Innovationsstandort Südböhmen-Niederbayern, Budweis, Tschechien,
-  10&#x2013;11 May 2017
+  10--11 May 2017
 
 
 ## Multi-Party Computation with Rational Players
 
-- 15th MDPS Workshop 2015, Lyon, France, 23&#x2013;27 November 2015
+- 15th MDPS Workshop 2015, Lyon, France, 23--27 November 2015
 
 
 ## Counting Classes of Special Polynomials
@@ -54,17 +54,17 @@ permalink: "/talks/"
 
 ## Tame decompositions and collisions
 
-- ISSAC 2014, Kobe, Japan, 23&ndash;25, 2014
+- ISSAC 2014, Kobe, Japan, 23--25, 2014
 - CRM Workshop on Polynomials over Finite Fields: Functional and
-  Algebraic Properties, Barcelona, 19&ndash;24 May, 2014
-- Fachgruppe Computeralgebra-Tagung, Kassel, 15&#x2013;17 May, 2014
+  Algebraic Properties, Barcelona, 19--24 May, 2014
+- Fachgruppe Computeralgebra-Tagung, Kassel, 15--17 May, 2014
 - [Oberseminar Computer Security](https://cosec.bit.uni-bonn.de/students/teaching/14ss/14ss-cosec-talks/ziegler0/), Bonn, 8 May 2014
 
 
 ## Fast and uniform generation of safe RSA moduli
 
-- [Joint MPIM and B-IT workshop on Number Theory and Cryptography](https://cosec.bit.uni-bonn.de/students/events/mpimbit/), Bonn, 20&#x2013;21 November 2013
-- WEWoRC 2013, Karlsruhe, 24&#x2013;26 July, 2013
+- [Joint MPIM and B-IT workshop on Number Theory and Cryptography](https://cosec.bit.uni-bonn.de/students/events/mpimbit/), Bonn, 20--21 November 2013
+- WEWoRC 2013, Karlsruhe, 24--26 July, 2013
 
 
 ## The art of decomposing polynomials of degree p<sup>2</sup>
@@ -72,23 +72,23 @@ permalink: "/talks/"
 - Symbolic Computation Seminar, Waterloo, 27 May
 		  2013
 - <a href="https://www.birs.ca/events/2013/5-day-workshops/13w5141">BIRS Workshop The Art of Iterating Rational Functions over Finite
-Fields</a>, Banff, 5&#x2013;10 May 2013
+Fields</a>, Banff, 5--10 May 2013
 		  (<a href="http://www.birs.ca/events/2013/5-day-workshops/13w5141/videos/watch/201305061410-Ziegler.mp4">video</a>)
 
 
 ## Compositions and collisions at degree p<sup>2</sup>
 
-- ISSAC 2012, Grenoble, 22&#x2013;25 July, 2012 (joint with Raoul
+- ISSAC 2012, Grenoble, 22--25 July, 2012 (joint with Raoul
 		  Blankertz)
 - <a href="http://cosec.bit.uni-bonn.de/students/teaching/12ss/12ss-cosec-talks/blankertzziegler/">Oberseminar Computer Security, Bonn</a>, 24 May 2012 (joint with Raoul
 		  Blankertz)
 - Fachgruppe Computeralgebra-Tagung, Kassel,
-		  10&#x2013;12 May, 2012
+		  10--12 May, 2012
 
 
 ## Composition collisions and projective polynomials
 
-- ISSAC 2010, Munich, Germany, 25&#x2013;28 July
+- ISSAC 2010, Munich, Germany, 25--28 July
 		  2010
 - <a href="http://cosec.bit.uni-bonn.de/students/teaching/10ss/10ss-cosec-talks/counting0/">Oberseminar
 		    Computer Security</a>, Bonn, 8 July 2010
@@ -103,7 +103,7 @@ Fields</a>, Banff, 5&#x2013;10 May 2013
 ## Counting reducible multivariate polynomials
 
 - Fachgruppe Computeralgebra-Tagung, Kassel,
-		  14&#x2013;16 May, 2009
+		  14--16 May, 2009
 - <a href="http://cosec.bit.uni-bonn.de/students/teaching/09ss/09ss-cosec-talks/polynomial/">Oberseminar
 		    Computer Security</a>, Bonn, 23 April 2009
 - Oberseminar Computer Security, Bonn, 22 January

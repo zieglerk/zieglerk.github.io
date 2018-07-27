@@ -44,3 +44,10 @@ permalink: /index.html
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+
+This is a relaunch of my homepage at
+[zieglerk.net](http://zieglerk.net) using jekyll instead of
+pure-html. Most of my (static) content is still accessible there. My
+blog has been merged into the github-pages of the
+[Passau Graduate Student Brown Bag Seminar (PGBBS)](https://pgbbs.github.io),
+where I continue to blog with my colleagues.
