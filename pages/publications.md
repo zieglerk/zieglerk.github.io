@@ -1,13 +1,13 @@
 ---
 layout: page
-sidebar: left
 subheadline: "TODO"
 title: "Publications"
 permalink: "/publications/"
 image:
-    title: "you-can-delete-me-header.png"
-    caption: credits
-    caption_url: http://wikimedia.com
+    title: "Historischer_Bibliothekssaal-800px.jpg"
+    thumb: "Historischer_Bibliothekssaal-128px.jpg"
+    caption: von OLB [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), vom Wikimedia Commons
+    caption_url: https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JPG
 breadcrumb: true
 show_meta: false
 ---
