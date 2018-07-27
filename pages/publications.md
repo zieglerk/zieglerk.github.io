@@ -6,7 +6,13 @@ subheadline: "TODO"
 permalink: "/publications/"
 image:
     title: you-can-delete-me-header.png
+    caption: example
+    caption_url: http://unsplash.com
 ---
+
+# Table of Contents
+*  Auto generated table of contents
+{:toc}
 
 <div class="panel radius" markdown="1">
 **Table of Contents**
@@ -51,10 +57,6 @@ href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
 Culture of Research and Scholarship in Matheamtics: Joint Research and
 Its Publication</a>. I prefer to follow this practice.
 
-### Table of Contents
-*  Auto generated table of contents
-{:toc}
-
 # Dissertation
 
 - <strong class="title">Counting classes of special polynomials</strong>
@@ -98,7 +100,7 @@ Its Publication</a>. I prefer to follow this practice.
 
 
 
-## Conference Articles (Peer-Reviewed)
+# Conference Articles (Peer-Reviewed)
 
 - <strong class="title">Survey on counting special types of polynomials</strong>
     (<a href="http://dx.doi.org/10.1007/978-3-319-15081-9_3">DOI</a>,
@@ -149,7 +151,7 @@ Algebraic Computation ISSAC '10</cite>, edited
 
 
 
-## Workshop Abstracts
+# Workshop Abstracts
 
 - <strong class="title">Tame Decompositions and Collisions</strong><br>
     <strong class="author">Konstantin Ziegler</strong><br>
