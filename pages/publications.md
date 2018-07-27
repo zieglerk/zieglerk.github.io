@@ -3,15 +3,24 @@ layout: page
 show_meta: false
 title: "Publications"
 subheadline: "TODO"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/publications/"
+image:
+    title: gallery-example-1.jpg
+	thumb: gallery-example-1.jpg
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
 ---
 
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 > Writing is nature’s way of letting you know how sloppy your thinking
-> is. -- Dick Guindon
-
-
+> is.
+<cite>Dick Guindon</cite>
 
 You can find my author profile at <a
 href="http://scholar.google.de/citations?sortby=pubdate&amp;hl=de&amp;user=_C-Boh4AAAAJ&amp;view_op=list_works">Google
@@ -45,6 +54,9 @@ href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
 Culture of Research and Scholarship in Matheamtics: Joint Research and
 Its Publication</a>. I prefer to follow this practice.
 
+### Table of Contents
+*  Auto generated table of contents
+{:toc}
 
 ## Dissertation
 
