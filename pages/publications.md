@@ -58,7 +58,7 @@ Its Publication</a>. I prefer to follow this practice.
 *  Auto generated table of contents
 {:toc}
 
-## Dissertation
+# Dissertation
 
 - <strong class="title">Counting classes of special polynomials</strong>
     (<a href="http://hss.ulb.uni-bonn.de/2015/3981/3981.htm">URL</a>)<br>
@@ -67,7 +67,7 @@ Its Publication</a>. I prefer to follow this practice.
 
 
 
-## Journal Articles (Peer-Reviewed)
+# Journal Articles (Peer-Reviewed)
 
 - <strong class="title">Compositions and collisions at degree
     p<sup>2</sup></strong> (<a
