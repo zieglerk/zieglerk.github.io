@@ -1,8 +1,8 @@
 ---
-layout: page
-show_meta: false
 title: "Talks"
 subheadline: "TODO"
+layout: page
+show_meta: false
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/talks/"
@@ -11,33 +11,34 @@ permalink: "/talks/"
 
 ## Representation Learning and Transfer Learning
 
-- IRXIYS summer school “Big Data and Business: Methods, Technologies	  and Innovation”, Frauenchiemsee, Deutschland,
-		  16&#x2013;21 July 2017
+- IRXIYS summer school “Big Data and Business: Methods, Technologies
+  and Innovation”, Frauenchiemsee, Deutschland, 16--21 July 2017
 
 
-## Panel discussion: Data centricity of digital world &#x2013; opportunities and	challenges
+## Panel discussion: Data centricity of digital world -- opportunities and challenges
 
-- The 26th IEEE International Conference on Enabling
-		Technologies: Infrastructure for Collaborative
-		Enterprises WETICE-2017, Poznan, Poland, 21&#x2013;23 June 2017
+- The 26th IEEE International Conference on Enabling Technologies:
+  Infrastructure for Collaborative Enterprises WETICE-2017, Poznan,
+  Poland, 21&#x2013;23 June 2017
 
 
 ## Injecting Semantic Background Knowledge into Neural Networks using Graph Embeddings
 
-- The 26th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises WETICE-2017,
-		  Poznan, Poland, 21&#x2013;23 June 2017
+- The 26th IEEE International Conference on Enabling Technologies:
+  Infrastructure for Collaborative Enterprises WETICE-2017, Poznan,
+  Poland, 21&#x2013;23 June 2017
 
 
 ## Deep Learning: Trends und Möglichkeiten zur Wertschöpfung mit Daten
 
-- INTERREG BY/CZ Kongress Wissens- und Technologietransfer Innovationsstandort Südböhmen-Niederbayern, Budweis, Tschechien, 10&#x2013;11
-		  May 2017
+- INTERREG BY/CZ Kongress Wissens- und Technologietransfer
+  Innovationsstandort Südböhmen-Niederbayern, Budweis, Tschechien,
+  10&#x2013;11 May 2017
 
 
 ## Multi-Party Computation with Rational Players
 
-- 15th MDPS Workshop 2015, Lyon, France, 23&#x2013;27
-		November 2015
+- 15th MDPS Workshop 2015, Lyon, France, 23&#x2013;27 November 2015
 
 
 ## Counting Classes of Special Polynomials
