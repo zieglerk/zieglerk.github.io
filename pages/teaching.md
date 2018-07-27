@@ -9,7 +9,8 @@ permalink: "/teaching/"
 ---
 
 > I never teach my pupils, I only attempt to provide the conditions in
-> which they can learn. -- Albert Einstein
+> which they can learn.
+<cite>Albert Einstein</cite>
 
 ## Summer 2018
 
