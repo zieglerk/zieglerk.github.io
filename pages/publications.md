@@ -4,11 +4,6 @@ show_meta: false
 title: "Publications"
 subheadline: "TODO"
 permalink: "/publications/"
-image:
-    title: gallery-example-1.jpg
-	thumb: gallery-example-1.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
 ---
 
 <div class="panel radius" markdown="1">
