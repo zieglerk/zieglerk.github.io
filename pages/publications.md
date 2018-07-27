@@ -6,9 +6,6 @@ subheadline: "TODO"
 permalink: "/publications/"
 image:
     title: you-can-delete-me-header.png
-	thumb: you-can-delete-me-thumb.png
-    caption: example
-    caption_url: http://unsplash.com
 ---
 
 <div class="panel radius" markdown="1">
