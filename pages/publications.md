@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Publications"
+sidebar: left
 subheadline: "TODO"
+title: "Publications"
 permalink: "/publications/"
 image:
-    title: "you-can-delete-me-header.png"
-	thumb: "you-can-delete-me-thumb.png"
-    caption: example
-    caption_url: http://unsplash.com
+	title: "you-can-delete-me-header.png"
+	caption: credits
+	caption_url: http://wikimedia.com
 breadcrumb: true
 show_meta: false
 ---
