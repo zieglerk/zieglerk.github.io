@@ -1,17 +1,27 @@
 ---
 layout: page
-show_meta: false
-title: "Publications"
 subheadline: "TODO"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
+title: "Publications"
 permalink: "/publications/"
+image:
+    title: "Historischer_Bibliothekssaal-800px.jpg"
+    thumb: "Historischer_Bibliothekssaal-128px.jpg"
+    caption: von OLB [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), vom Wikimedia Commons
+    caption_url: https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JPG
+breadcrumb: true
+show_meta: false
 ---
 
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 > Writing is nature’s way of letting you know how sloppy your thinking
-> is. -- Dick Guindon
-
-
+> is.
+<cite>Dick Guindon</cite>
 
 You can find my author profile at <a
 href="http://scholar.google.de/citations?sortby=pubdate&amp;hl=de&amp;user=_C-Boh4AAAAJ&amp;view_op=list_works">Google
@@ -45,8 +55,7 @@ href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
 Culture of Research and Scholarship in Matheamtics: Joint Research and
 Its Publication</a>. I prefer to follow this practice.
 
-
-## Dissertation
+# Dissertation
 
 - <strong class="title">Counting classes of special polynomials</strong>
     (<a href="http://hss.ulb.uni-bonn.de/2015/3981/3981.htm">URL</a>)<br>
@@ -55,7 +64,7 @@ Its Publication</a>. I prefer to follow this practice.
 
 
 
-## Journal Articles (Peer-Reviewed)
+# Journal Articles (Peer-Reviewed)
 
 - <strong class="title">Compositions and collisions at degree
     p<sup>2</sup></strong> (<a
@@ -89,7 +98,7 @@ Its Publication</a>. I prefer to follow this practice.
 
 
 
-## Conference Articles (Peer-Reviewed)
+# Conference Articles (Peer-Reviewed)
 
 - <strong class="title">Survey on counting special types of polynomials</strong>
     (<a href="http://dx.doi.org/10.1007/978-3-319-15081-9_3">DOI</a>,
@@ -140,7 +149,7 @@ Algebraic Computation ISSAC '10</cite>, edited
 
 
 
-## Workshop Abstracts
+# Workshop Abstracts
 
 - <strong class="title">Tame Decompositions and Collisions</strong><br>
     <strong class="author">Konstantin Ziegler</strong><br>

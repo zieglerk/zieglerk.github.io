@@ -8,7 +8,8 @@ header:
 permalink: "/research/"
 ---
 
-> All is fair in war, love, and mathematics. -- Eric Temple Bell
+> All is fair in war, love, and mathematics.
+<cite>Eric Temple Bell</cite>
 
 
 <ul>
@@ -50,7 +51,8 @@ cryptocurrency</a>, where the users jointly compute the
 
 ## Machine Learning
 
-> All models are wrong, but some are useful. -- George Box
+> All models are wrong, but some are useful.
+<cite>George Box</cite>
 
 The majority of attacks on cryptosystems is statistical, ranging from
 frequency analysis (of human languages) to correlations (of bit

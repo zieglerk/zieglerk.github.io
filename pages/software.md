@@ -9,14 +9,16 @@ permalink: "/software/"
 ---
 
 > In theory, there is no difference between theory and
-> practice. But, in practice, there is. -- attributed to Jan L. A. van de Snepscheut
+> practice. But, in practice, there is.
+<cite>attributed to Jan L. A. van de Snepscheut</cite>
 
 I host some code, mostly in python, on [github](https://github.com/zieglerk). Most of it is joint work with co-authors (and
 		co-teachers).
 
 ## Research Code
 
-> Rule 8: The development of fast algorithms is slow! -- Arnold Sch&ouml;nhage
+> Rule 8: The development of fast algorithms is slow!
+<cite>Arnold Sch&ouml;nhage</cite>
 
 Academic software has some peculiarities. A Dagstuhl
 	    Perspectives Workshop addressed them with a <a href="http://drops.dagstuhl.de/opus/volltexte/2017/7146/">manifesto</a>.
