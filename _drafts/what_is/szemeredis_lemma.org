@@ -1,0 +1,14 @@
+
+https://en.wikipedia.org/wiki/Szemer%C3%A9di_regularity_lemma
+* algorithmic version
+https://en.wikipedia.org/wiki/Algorithmic_version_for_Szemer%C3%A9di_regularity_partition
+* don't confuse with Szemeredi's Theorem
+https://en.wikipedia.org/wiki/Szemer%C3%A9di%27s_theorem
+and its famous extension
+https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem
+see
+https://terrytao.wordpress.com/2010/02/13/yet-another-proof-of-szemeredis-theorem/
+for "Yet another proof of Szemerédi’s theorem"
+* references
+- Terry Tao, Szemeredi’s regularity lemma via random partitions https://terrytao.wordpress.com/2009/04/26/szemeredis-regularity-lemma-via-random-partitions/, 26.04.2009.
+- Terry Tao, Szemeredi’s regularity lemma via the correspondence principle, https://terrytao.wordpress.com/2009/05/08/szemeredis-regularity-lemma-via-the-correspondence-principle/, 08.05.2009. 

@@ -1,0 +1,10 @@
+* zoo
+  - sponge-like: SHA-1 ?
+  - AES-like: MD5 ?
+* Theorem
+  coll-res => pre-imag-res (one-way-ness) => 2nd-pre-imag-res
+  Proof:
+  1st implication by Rogaway and Shrimpton (2004) -- given sufficient compression
+  implication from I to III by Contini, Lenstra, and Steinfeld (2006) and  Rogaway and Shrimpton (2004).
+* References
+- Al-Kuwari, Davenport, and Bradford, Cryptographic Hash Functions: Recent Design Trends and Security Notions, eprint 2011/565
