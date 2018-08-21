@@ -3,6 +3,7 @@ layout: page
 subheadline: "TODO"
 title: "Publications"
 permalink: "/publications/"
+header: no
 image:
     title: "Historischer_Bibliothekssaal-800px.jpg"
     thumb: "Historischer_Bibliothekssaal-128px.jpg"
