@@ -31,7 +31,13 @@ An example that I saw as image-caption:
 and then locally store a medium sized version in `image` and set the
 `url` attribute to the flickr-share-link.
 
-### For perspective
+## Sources for CC
+
+Mo Sauer hat
+[hier](https://magazin.phlow.de/bild/quellen-kostenloses-foto-bild-material/)
+eine Liste zusammengestellt.
+
+## For perspective
 
 CC BY-SA is also the most common licensce and there's more stats on the
 [state of the commons](https://stateof.creativecommons.org/).
