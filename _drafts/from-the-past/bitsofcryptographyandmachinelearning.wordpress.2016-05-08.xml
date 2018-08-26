@@ -1,0 +1,1686 @@
+<item>
+  <title>About Me</title>
+  <link>https://zieglerk.wordpress.com/about/</link>
+  <pubDate>Wed, 07 May 2008 10:46:05 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false"/>
+  <description/>
+  <content:encoded><![CDATA[<div>
+
+I am a mathematician working in cryptography and machine learning. I studied physics, mathematics, and computer science at universities in Munich, Montréal, Waterloo, and Bonn. In April 2015, I successfully defended my dissertation in mathematics at the latter. For more information see my <a href="http://zieglerk.net">personal homepage</a>.
+
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2</wp:post_id>
+  <wp:post_date>2008-05-07 10:46:05</wp:post_date>
+  <wp:post_date_gmt>2008-05-07 10:46:05</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>about</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>5</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>switch_like_status</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>sharing_disabled</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+
+
+
+
+
+
+<item>
+  <title>"When are two proofs essentially the same?"</title>
+  <link>https://zieglerk.wordpress.com/2008/05/07/3/</link>
+  <pubDate>Wed, 07 May 2008 11:17:39 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=3</guid>
+  <description/>
+  <content:encoded><![CDATA[Tim Gowers asks <a href="http://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/">When are two proofs essentially the same?</a>
+<blockquote>For example, it is often possible to convert a standard inductive proof into a proof by contradiction that starts with the assumption that <img class="latex" src="http://l.wordpress.com/latex.php?latex=X&amp;bg=ffffff&amp;fg=000000&amp;s=0" alt="X" /> is a minimal counterexample.</blockquote>
+He gives examples proving, that every natural number can be factored into primes and that $latex \sqrt{2}$ is irrational.
+
+In the first case, you go from $latex n$ to $latex n+1$ or you assume a smallest number for which such a factorization does not exist and decide whether it is prime or composite. (In either case the induction hypothesis respectively the proof that the set of such numbers is non-empty are ommited.)
+
+In the second case we assume for $latex \sqrt{2}$ a rational representation $latex \frac{p}{q}$ using either $latex p, q$ coprime or $latex p, q$ minimal, ending with a contradiction in either case.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3</wp:post_id>
+  <wp:post_date>2008-05-07 11:17:39</wp:post_date>
+  <wp:post_date_gmt>2008-05-07 11:17:39</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>3</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>China and the rest of the world</title>
+  <link>https://zieglerk.wordpress.com/2008/11/07/china-and-the-rest-of-the-world/</link>
+  <pubDate>Fri, 07 Nov 2008 13:22:53 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=4</guid>
+  <description/>
+  <content:encoded><![CDATA[Bruce Schneier's blog post <a href="http://www.schneier.com/blog/archives/2008/05/surveillance_in.html" target="_blank">Surveillance in China</a> brought the article <a href="http://www.rollingstone.com/politics/story/20797485/chinas_allseeing_eye/print" target="_blank">China's All-Seeing Eye</a> by Naomi Klein in Rolling Stone to my attention. It is about lots more than china and well worth reading.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4</wp:post_id>
+  <wp:post_date>2008-11-07 13:22:53</wp:post_date>
+  <wp:post_date_gmt>2008-11-07 13:22:53</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>china-and-the-rest-of-the-world</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>how to determine the area under a curve</title>
+  <link>https://zieglerk.wordpress.com/2008/07/03/how-to-determine-the-area-under-a-curve/</link>
+  <pubDate>Thu, 03 Jul 2008 16:06:44 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=5</guid>
+  <description/>
+  <content:encoded><![CDATA[tf called my attention on the paper <a href="http://care.diabetesjournals.org/cgi/content/abstract/17/2/152">A mathematical model for the determination of total area under glucose tolerance and other metabolic curves</a> by MM Tai, pulished in Diabetes Care, Vol 17, Issue (2) 152--154. According to the abstract:
+<blockquote>In Tai's Model, the total area under a curve is computed by dividing the area under the curve between two designated values on the X-axis (abscissas) into small segments (rectangles and triangles) whose areas can be accurately calculated from their respective geometrical formulas. The total sum of these individual areas thus represents the total area under the curve. Validity of the model is established by comparing total areas obtained from this model to these same areas obtained from graphic method (less than +/- 0.4%). Other formulas widely applied by researchers under- or overestimated total area under a metabolic curve by a great margin.</blockquote>
+This article has been cited by at least 35 other articles.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5</wp:post_id>
+  <wp:post_date>2008-07-03 16:06:44</wp:post_date>
+  <wp:post_date_gmt>2008-07-03 16:06:44</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>how-to-determine-the-area-under-a-curve</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Klein vs. Boy</title>
+  <link>https://zieglerk.wordpress.com/2008/10/01/klein-vs-boy/</link>
+  <pubDate>Wed, 01 Oct 2008 23:58:43 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=6</guid>
+  <description/>
+  <content:encoded><![CDATA[Recently, members of our group visited the <a href="http://www.imaginary2008.de/" target="_blank">imaginary</a> exhibition in Cologne. When looking at the award-winning picture <a href="http://plus.maths.org/latestnews/sep-dec06/visualisation/index.html" target="_blank">Still Life: Five Glass Surfaces on a Tabletop by Richard Palais and Luc Benard</a> a discussion arose, as how to most easily distinguish a Boy's Surface from a Klein Bottle. Assuming only basic knowledge about the construction of both of them this can be achieved by drawing the following series of diagrams which illustrates the construction of Boy's Surface and finally comparing it to the analogous diagram for a Klein Bottle.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>6</wp:post_id>
+  <wp:post_date>2008-10-01 23:58:43</wp:post_date>
+  <wp:post_date_gmt>2008-10-01 23:58:43</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>klein-vs-boy</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>non-unique factorization</title>
+  <link>https://zieglerk.wordpress.com/2009/12/08/non-unique-factorization/</link>
+  <pubDate>Tue, 08 Dec 2009 23:58:29 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=13</guid>
+  <description/>
+  <content:encoded><![CDATA[The uniqueness of factorization in the integers is a well-known fact from high school calculus. Many people find it quite surprising that there might be situations, where unique factorization does not hold.
+
+The standard example for a domain where unique factorization fails is $latex \mathbb{Z}[\sqrt{-5}]$. Rico G. told me about a more simple structure where non-uniqueness of factorization can already be observed: Consider all positive integers of the form $latex 4n+1$, i.e. the set $latex 4\mathbb{N} + 1 = \{ 1, 5, 9, 13, \dots \}$. Obviously, multiplication is a well-defined binary composition on this set. It also quite accessible, when to call a number <em>prime</em> (although <em>irreducible</em> would be more appropriate): any number besides one $latex 1$ is prime, if there are no divisors besides $latex 1$ and the number itself.
+
+With this definition, it is easy to check, that $latex 5$ is prime and so is $latex 9$! Since the only non-trivial divisor $latex 3$ is not an element of our set. Realizing this, we can easily construct an example for a number with non-unique prime decomposition. Take $latex 441 = 9 \cdot 49 = 21^2$.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>13</wp:post_id>
+  <wp:post_date>2009-12-08 23:58:29</wp:post_date>
+  <wp:post_date_gmt>2009-12-08 23:58:29</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>non-unique-factorization</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>A playful approach to the Moebius Function</title>
+  <link>https://zieglerk.wordpress.com/2009/01/25/a-playful-approach-to-the-moebius-function/</link>
+  <pubDate>Sun, 25 Jan 2009 13:27:36 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=17</guid>
+  <description/>
+  <content:encoded><![CDATA[The Moebius Function $latex \mu$ of number theory seems to be defined in a rather artificial way:
+
+$latex \mu (n) = 1 $ if $latex n$ is the product of an <em>even</em> number of <em>distinct</em> primes,
+$latex \mu (n) = -1 $ if $latex n$ is the product of an <em>odd</em> number of <em>distinct</em> primes and
+$latex \mu (n) = 0 $  otherwise, i.e. if $latex n$ is  not <em>squarefree</em>.
+
+James Tanton gives a playful approach to $latex \mu$ in his article "An Illuminating Introduction to the Moebius Function", MAA Focus, March 2007, P. 16-17. It starts with the following game: Imagine a row of 100 coins -- all equal and all with heads up. Also imagine 100 players. The first player flips every coin. The second player flips every other coin, the third player every third coin, ..., the $latex n$th player flips every $latex n$th coin. Now, the question arises: Which coins show tails up after 100 rounds? Amazingly, it is all those whose position is a perfect square.
+
+This game is then generalized to a row of light bulbs where every light bulb can cycle through $latex k$ different states: $latex 0, 1, ..., k-1$ and returns to state 0 after state $latex k-1$. Imagine an infinite row of such light bulbs and face the following task: Which of the players (characterized above) do you have to send down the row (several ones certainly repeatedly) to set the first bulb into state $latex 1$ and all others into state 0? Tanton then proves the following claim:
+
+<em>If the $latex n$th player works the row $latex \mu(n)$ times (where we read $latex -1$  as $latex k-1$), then bulb 1 will be in state 1 and all others will be in state 0.</em>
+
+This approach also gives access to the multiplicity of the Moebius function and the Moebius inversion formula.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2009-01-25 13:27:36</wp:post_date>
+  <wp:post_date_gmt>2009-01-25 13:27:36</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>a-playful-approach-to-the-moebius-function</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Question 4 from IMO 2008</title>
+  <link>https://zieglerk.wordpress.com/2009/02/24/question-4-from-imo-2008/</link>
+  <pubDate>Tue, 24 Feb 2009 10:21:55 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=33</guid>
+  <description/>
+  <content:encoded><![CDATA[Problem: Find all functions $latex f: \mathbb{R}^{+} \to \mathbb{R}^{+}$, s.t.
+<p style="text-align:center;">$latex \displaystyle \frac{f(w)^2 + f(x)^2}{f(y^2)+f(z^2)} = \frac{w^2+x^2}{y^2+z^2} \ \ \ \ \ (1) $</p>
+whenever $latex wx=yz$. (<span class="postbody"><span style="font-style:italic;">Author: Hojoo Lee, South Korea)</span></span>
+
+Remark: Obvious solutions are $latex \mathop{id}: x \mapsto x$ and $latex \mathop{inv}: x \mapsto 1/x$. We show, that those are also the only solutions.
+
+Fact 1: $latex f(1) = 1$.
+
+Proof: Let $latex w=x=y=z=1$.
+
+Fact 2: $latex f(x^2) = f(x)^2$.
+
+Proof: Let $latex w=y=1$ and $latex x=z$.
+
+Using Fact 2, we can rewrite $latex (1)$ as
+<p style="text-align:center;">$latex \displaystyle \frac{f(w)+f(x)}{w+x}=\frac{f(y)+f(z)}{y+z} \ \ \ \ \ (2)$</p>
+<p style="text-align:left;">whenever $latex wx=yz$.</p>
+<p style="text-align:left;">Fact 3: For every $latex x \in \mathbb{R}^{+}$</p>
+<p style="text-align:center;">$latex \displaystyle f(x) = x \text{ or } f(x) = 1/x $.</p>
+<p style="text-align:left;">Proof: Let $latex w=x, y=1 \text{ and } z = x^2$. Then $latex (2)$ implies</p>
+<p style="text-align:center;">$latex \displaystyle \frac{2f(x)}{2x} = \frac{1+f(x)^2}{1+x^2}$</p>
+<p style="text-align:left;">which is a quadratic equation for $latex f(x)$ with the two solutions $latex x$ and $latex 1/x$.</p>
+<p style="text-align:left;">Fact 4 (</p>
+<p style="text-align:left;">Non-mixing Lemma): If $latex f(x) = x$ for some $latex x \neq 1$, then for all $latex x \in \mathbb{R}^{+}$.</p>
+<p style="text-align:left;">Proof: Assume $latex f(x) = x$, for some $latex x \neq 1$, but $latex f(w) \neq w$ for some $latex w \neq 1$. By Fact 3, we know that in this case $latex f(w) = 1/w$. We will show, that now the two possibilities for $latex f(xw)$, i.e. $latex f(xw) = xw$ and $latex f(xw) = 1/(xw)$ both lead to contradictions.</p>
+<p style="text-align:left;">Let $latex y=1$ and $latex z = x \cdot w$. Then $latex (2)$ reads as</p>
+<p style="text-align:center;">$latex \displaystyle \frac{1/w + x}{w+x} = \frac{1+f(xw)}{1+xw} \ \ \ \ \ (3)$.</p>
+<p style="text-align:left;">If $latex f(xw) = xw$, this implies $latex w= 1$. If $latex f(xw) = 1/(xw)$ this implies $latex x =1$. Either way, a contradiction.</p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>33</wp:post_id>
+  <wp:post_date>2009-02-24 10:21:55</wp:post_date>
+  <wp:post_date_gmt>2009-02-24 10:21:55</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>question-4-from-imo-2008</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>The “Broken Windows” Theory of Crimefighting</title>
+  <link>https://zieglerk.wordpress.com/2009/02/27/the-broken-windows-theory-of-crimefighting/</link>
+  <pubDate>Fri, 27 Feb 2009 09:15:59 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=58</guid>
+  <description/>
+  <content:encoded><![CDATA[Bruce Schneier's blog post <a href="http://www.schneier.com/blog/archives/2009/02/the_broken_wind.html" target="_blank">The "Broken Windows" Theory of Crimefighting</a> quotes the article <a href="http://www.boston.com/news/local/massachusetts/articles/2009/02/08/breakthrough_on_broken_windows/" target="_blank">Breakthrough on 'broken windows'</a> from The Boston Globe. Interesting information on what is effective -- and what not.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>58</wp:post_id>
+  <wp:post_date>2009-02-27 09:15:59</wp:post_date>
+  <wp:post_date_gmt>2009-02-27 09:15:59</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-broken-windows-theory-of-crimefighting</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="psychology"><![CDATA[psychology]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Verschlüsseln macht verdächtig</title>
+  <link>https://zieglerk.wordpress.com/2009/02/27/verschlusseln-macht-verdachtig/</link>
+  <pubDate>Fri, 27 Feb 2009 16:40:14 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=63</guid>
+  <description/>
+  <content:encoded><![CDATA[<p class="storytitle">Udo Vetter's law blog cites under the title <a rel="bookmark" href="http://www.lawblog.de/index.php/archives/2009/02/24/verschlusseln-macht-verdachtig/" target="_blank">Verschlüsseln macht verdächtig</a> from an interrogation transcript. [German]</p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>63</wp:post_id>
+  <wp:post_date>2009-02-27 16:40:14</wp:post_date>
+  <wp:post_date_gmt>2009-02-27 16:40:14</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>verschlusseln-macht-verdachtig</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Recognize your Primes</title>
+  <link>https://zieglerk.wordpress.com/2009/07/12/recognize-your-primes/</link>
+  <pubDate>Sun, 12 Jul 2009 06:12:45 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=68</guid>
+  <description/>
+  <content:encoded><![CDATA[After reading Tanya Khovanova's <a href="http://blog.tanyakhovanova.com/?p=51" target="_blank">Remember your Primes</a>, I decided to do so.  The description is due to John Conway.
+
+Instead of memorizing all primes below 1000, it is easier to recognize composites:
+
+1.  Multiples of 2, 3, 5, 11 are easily detected.
+
+2.  Squares are known.
+
+3.  All that remains is to memorize 70 "non-trivial" composites (opposed to 168 primes in that range):
+<blockquote>91, 119, 133, 161, 203, 217, 221, 247, 259, 287, 299, 301, 323, 329, 343, 371, 377, 391, 403, 413, 427, 437, 469, 481, 493, 497, 511, 527, 533, 551, 553, 559, 581, 589, 611, 623, 629, 637, 667, 679, 689, 697, 703, 707, 713, 721, 731, 749, 763, 767, 779, 791, 793, 799, 817, 833, 851, 871, 889, 893, 899, 901, 917, 923, 931, 943, 949, 959, 973, 989.</blockquote>
+1. Remark:
+<blockquote>If you are lazy, you can learn primes only up to 100. [...] [Y]ou need to remember only one number: 91.</blockquote>
+2. Remark:
+<blockquote>If you are very ambitious and plan to learn the primes up to 50,000, then the trick of learning non-trivial composites instead of primes is of no use to you. [...] The turning point is around 11,625: the number of primes below 11,625 equals the number of non-trivial composites below it.<span style="margin-left:-51px;margin-top:-57px;opacity:0;"> </span></blockquote>
+3. As soon as you feel comfortable in the range below 1000 two more classes of composites become trivial to detect: Multiples of 7 and 13, since you can find the residue of a given number modulo 1001 by taking the alternating sum of three-digits.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>68</wp:post_id>
+  <wp:post_date>2009-07-12 06:12:45</wp:post_date>
+  <wp:post_date_gmt>2009-07-12 06:12:45</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>recognize-your-primes</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>article on base rate fallacy</title>
+  <link>https://zieglerk.wordpress.com/2009/07/28/article-on-base-rate-fallacy/</link>
+  <pubDate>Tue, 28 Jul 2009 08:10:44 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=75</guid>
+  <description/>
+  <content:encoded><![CDATA[Bruce Schneier pointed in his <a href="http://www.schneier.com/blog/archives/2009/07/base_rate_falla.html" target="_blank">blog</a> to the following article on the base rate fallacy: <a href="http://news.bbc.co.uk/2/hi/uk_news/magazine/8153539.stm" target="_blank">A scanner to detect terrorists</a> by Michael Blastland.  It includes a nicely worked example and an even better graphic.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>75</wp:post_id>
+  <wp:post_date>2009-07-28 08:10:44</wp:post_date>
+  <wp:post_date_gmt>2009-07-28 08:10:44</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>article-on-base-rate-fallacy</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Subtraction and Multiplication Problems by Tanya Khovanova</title>
+  <link>https://zieglerk.wordpress.com/2009/09/27/subtraction-and-multiplication-problems-by-tanya-khovanova/</link>
+  <pubDate>Sun, 27 Sep 2009 13:35:39 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=80</guid>
+  <description/>
+  <content:encoded><![CDATA[I really like the problems Tanya Khovanova presents on her <a href="http://blog.tanyakhovanova.com/" target="_blank">blog</a>.  It would be interesting to know how high school kids perform on the <a href="http://blog.tanyakhovanova.com/?p=117" target="_blank">Subtraction</a> and <a href="http://blog.tanyakhovanova.com/?p=122" target="_blank">Multiplication</a> Problems now compared to 50 years ago.
+
+I particularly like the first one:
+<blockquote>A stick has two ends. If you cut off one end, how many ends will the stick have left?</blockquote>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>80</wp:post_id>
+  <wp:post_date>2009-09-27 13:35:39</wp:post_date>
+  <wp:post_date_gmt>2009-09-27 13:35:39</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>subtraction-and-multiplication-problems-by-tanya-khovanova</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>the group of units in a finite field is cyclic</title>
+  <link>https://zieglerk.wordpress.com/2009/12/06/units-in-a-finite-field-form-a-cyclic-group/</link>
+  <pubDate>Sun, 06 Dec 2009 00:43:10 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=85</guid>
+  <description/>
+  <content:encoded><![CDATA[The goal is to give a quick proof of the well-known theorem quoted in the title.
+
+We will use two facts:
+
+Fact 1:  The order of a group element divides the order of the group.
+
+Fact 2: If $latex g$ is of order $latex m$, then $latex g^i$ is of order $latex m/gcd(i,m)$.
+
+Fact 3:  In any field, the equation $latex x^m=1$ has at most $latex m$ solutions $latex x$.
+
+Let $latex G$ be a commutative group with $latex n$ elements.  For every divisor $latex m$ of $latex n$ we define $latex A_m$ as the set of all elements in $latex G$ of order $latex m$.
+
+Remark:  If $latex x \in A_m$, then $latex x^m = 1$.
+
+By Fact 1, the $latex A_m$ form a partition of $latex G$:
+
+$latex \displaystyle G = \bigcup_{m \mid n} A_m$.
+
+Example:  Let $latex G = \mathbb{Z} / n\mathbb{Z}$.  For every $latex m \mid n$ the solutions of $latex x \cdot m = 0$ are given by $latex x = i \cdot \overline{n/m}, \quad 0 \leq i &lt; m$.  Furthermore $latex A_m = \{i \cdot \overline{n/m} \colon 0 \leq i &lt; m \text{ and } gcd(i,m)=1\}$.
+
+Lemma:  Let $latex G$ be a commutative group with $latex n$ elements, where for every divisor $latex m$ of $latex n$ the equation $latex x^m = 1$ has at most $latex m$ solutions.
+<ol>
+	<li>If $latex A_m$ is non-empty, then $latex \# A_m = \varphi (m)$.</li>
+	<li>$latex A_m$ is never empty.</li>
+</ol>
+Proof:
+<ol>
+	<li>Let $latex g \in A_m$.  Then $latex \# \langle g \rangle = m$ and the $latex m$ elements of $latex \langle g \rangle$ are all the solutions to $latex x^m = 1$.
+So, if $x$ solves $x^m = 1$, then $x \in \langle g \rangle$.  By the remark above, this shows $latex A_m \subseteq \langle g \rangle = \{ g^i \}$.
+Furthermore $g^i$ is of order $m$ if and only if $gcd(i,m)=1$.  Therefore
+$latex \displaystyle \# A_m = \varphi(m)$.</li>
+	<li>For $latex G = \mathbb{Z}/ n\mathbb{Z}$ we have $n/m \in A_m$ and therefore no $latex A_m$ is empty.  For general $latex G$ satisfying the assumptions of the Lemma we have
+$latex \displaystyle \sum_{m \mid n} \varphi(m) = $
+$latex \displaystyle = \sum_{m \mid n} \# A_m \left( \mathbb{Z} / n \mathbb{Z} \right) = $
+$latex \displaystyle = \# \mathbb{Z}/ n\mathbb{Z} = n = \# G = \sum_{m \mid n} \# A_m \leq \sum_{m \mid n} \varphi(m)$.
+And equality only if all $latex A_m$ are nonempty.  But since equality is forced by the first and last term being equal this holds.</li>
+</ol>
+Corollary:  Units in a finite field form a cyclic group
+
+Proof:  Units in a finite field satisfy the assumptions of the Lemma by Fact 3.  Any element of the nonempty set $latex A_{n}$ is a generator.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>85</wp:post_id>
+  <wp:post_date>2009-12-06 00:43:10</wp:post_date>
+  <wp:post_date_gmt>2009-12-06 00:43:10</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>units-in-a-finite-field-form-a-cyclic-group</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Article on Complex Multiplication</title>
+  <link>https://zieglerk.wordpress.com/2009/12/05/article-on-complex-multiplication/</link>
+  <pubDate>Sat, 05 Dec 2009 10:41:55 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=87</guid>
+  <description/>
+  <content:encoded><![CDATA[The Computeralgebra-Rundbrief 45 (2009) featured Andreas Enge, <em>Komplexe Multiplikation: von numerisch bis symbolisch</em>.  The article is available as <a href="http://hal.inria.fr/docs/00/42/90/93/PDF/carundbrief.pdf" target="_blank">pdf</a>.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>87</wp:post_id>
+  <wp:post_date>2009-12-05 10:41:55</wp:post_date>
+  <wp:post_date_gmt>2009-12-05 10:41:55</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>article-on-complex-multiplication</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Article on Tropical Geometry</title>
+  <link>https://zieglerk.wordpress.com/2009/12/05/article-on-tropical-geometry/</link>
+  <pubDate>Sat, 05 Dec 2009 10:53:11 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=90</guid>
+  <description/>
+  <content:encoded><![CDATA[The Computeralgebra-Rundbrief 44 (2009) featured Thomas Markwig, <em>Tropische Geometrie<em>.</em></em> An english version of the article with an extended list of references is available as <a href="http://www.mathematik.uni-kl.de/~keilen/download/Keilen009/Keilen009.pdf" target="_blank">pdf</a>.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>90</wp:post_id>
+  <wp:post_date>2009-12-05 10:53:11</wp:post_date>
+  <wp:post_date_gmt>2009-12-05 10:53:11</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>article-on-tropical-geometry</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Article on Mathematics, Chess, and Beauty</title>
+  <link>https://zieglerk.wordpress.com/2009/12/06/article-on-mathematics-chess-and-beauty/</link>
+  <pubDate>Sun, 06 Dec 2009 11:01:08 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=127</guid>
+  <description/>
+  <content:encoded><![CDATA[Christian Hesse wrote in Mitteilungen der DMV 17 (2009) on <em>Mathematik und Schach und Schönheit</em>.  The article is available as <a href="http://www.mathematik.de/ger/presse/ausdenmitteilungen/artikel/mdmv-17-3-156.pdf" target="_blank">pdf</a>.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>127</wp:post_id>
+  <wp:post_date>2009-12-06 11:01:08</wp:post_date>
+  <wp:post_date_gmt>2009-12-06 11:01:08</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>article-on-mathematics-chess-and-beauty</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>cognitive dissonance</title>
+  <link>https://zieglerk.wordpress.com/2009/12/09/cognitive-dissonance/</link>
+  <pubDate>Wed, 09 Dec 2009 00:10:49 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=149</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://blog.fefe.de/" target="_blank">fefes blog</a> led me to a wonderful article dealing with cognitive dissonance:  <a href="http://www.nzzfolio.ch/www/d80bd71b-b264-4db4-afd0-277884b93470/showarticle/2a6a2914-af92-496b-83fa-3b9fa4c07eb2.aspx" target="_blank">Das Experiment -- Rauchen ist gesund</a> by Reto U. Schneider published in NZZ Folio 01/2007.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>149</wp:post_id>
+  <wp:post_date>2009-12-09 00:10:49</wp:post_date>
+  <wp:post_date_gmt>2009-12-09 00:10:49</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>cognitive-dissonance</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="psychology"><![CDATA[psychology]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>"Coins Sequence"</title>
+  <link>https://zieglerk.wordpress.com/2010/03/24/coins-sequence/</link>
+  <pubDate>Wed, 24 Mar 2010 00:37:23 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=151</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://blog.tanyakhovanova.com/" target="_blank">Tanya Khovanova</a> has a <a href="http://blog.tanyakhovanova.com/?p=148" target="_blank">blog post</a> on a <a href="http://blog.tanyakhovanova.com/?p=130" target="_blank">problem by Oleg  Kryzhanovsky</a>:
+<blockquote>You have 6 coins weighing 1, 2, 3, 4, 5 and 6 grams that look the same,  except for their labels. The number (1, 2, 3, 4, 5, 6) on the top of  each coin should correspond to its weight. How can you determine whether  all the numbers are correct, using the balance scale only twice?</blockquote>
+We look at a more general problem and define a sequence a(n) of natural numbers for that:
+<blockquote>Suppose we have a set of <em>n</em> coins of different weights weighing  exactly an integer number of grams from 1 to <em>n</em>. The coins are  labeled from 1 to <em>n</em>. The sequence <em>a(n)</em> is the minimum  number of weighings we need on a balance scale to confirm that the  labels are correct.</blockquote>
+With this notation, the original problem asks for a proof of <em>a(6) = 2</em>.  We immediately get a(1)=0, a(2)=1, and a(3)=2.  To see a(4)=2 consider the two statements 1+2&lt;4 and 2+3=1+4 (or 1&lt;2).   For a(5)=2, consider 1+2&lt;4 and 1+4=5.  Finally, we see a(6)=2 by 1+2+3=6 and 1+6&lt;3+5.  Max Alekseyev lists this and 3+6&gt;1+2+5 and 1+3&lt;5 as the two essential solutions in a <a href="http://blog.tanyakhovanova.com/?p=148#comment-9294" target="_blank">comment</a>.
+
+Tanya Khovanova also mentions the trivial bounds<em> a(n) ≥ log<sub>3</sub>(n) and </em><em>a(n) ≤ n-1 and proves </em><em>a(T<sub>n</sub>) ≤ a(n) + T<sub>n</sub> - n - 1, where </em><em>T<sub>n </sub></em><em> </em> denotes the <em>n</em>-th triangular number.  Finally, she asks to let her know "if you can prove or disprove that this sequence is  non-decreasing<em> </em><em></em>."]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>151</wp:post_id>
+  <wp:post_date>2010-03-24 00:37:23</wp:post_date>
+  <wp:post_date_gmt>2010-03-24 00:37:23</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>coins-sequence</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>How to ask questions</title>
+  <link>https://zieglerk.wordpress.com/2010/08/27/how-to-ask-questions/</link>
+  <pubDate>Fri, 27 Aug 2010 17:17:24 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=157</guid>
+  <description/>
+  <content:encoded><![CDATA[Eric Steven Raymond, <a href="http://www.catb.org/~esr/faqs/smart-questions.html" target="_blank">How To Ask Questions The Smart Way </a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>157</wp:post_id>
+  <wp:post_date>2010-08-27 17:17:24</wp:post_date>
+  <wp:post_date_gmt>2010-08-27 17:17:24</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>how-to-ask-questions</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="education"><![CDATA[education]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>How to work in a group</title>
+  <link>https://zieglerk.wordpress.com/2010/08/27/how-to-work-in-a-group/</link>
+  <pubDate>Fri, 27 Aug 2010 17:18:47 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=160</guid>
+  <description/>
+  <content:encoded><![CDATA[Randy Pausch, <a href="http://download.srv.cs.cmu.edu/~pausch/Randy/tipoForGroups.html" target="_blank">Tips for Working  Successfully in a Group</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>160</wp:post_id>
+  <wp:post_date>2010-08-27 17:18:47</wp:post_date>
+  <wp:post_date_gmt>2010-08-27 17:18:47</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>how-to-work-in-a-group</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="education"><![CDATA[education]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>How to apologize</title>
+  <link>https://zieglerk.wordpress.com/2010/08/27/how-to-apologize/</link>
+  <pubDate>Fri, 27 Aug 2010 17:24:09 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=165</guid>
+  <description/>
+  <content:encoded><![CDATA[Proper apologies have three parts:
+<ol>
+	<li>What I did was wrong.</li>
+	<li>I feel badly that I hurt you.</li>
+	<li>How do I make you feel better?</li>
+</ol>
+Source: Randy Pausch, The last Lecture, p. 162, 2008.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>165</wp:post_id>
+  <wp:post_date>2010-08-27 17:24:09</wp:post_date>
+  <wp:post_date_gmt>2010-08-27 17:24:09</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>how-to-apologize</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="education"><![CDATA[education]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>How to behave on the net</title>
+  <link>https://zieglerk.wordpress.com/2010/08/28/how-to-behave-on-the-net/</link>
+  <pubDate>Sat, 28 Aug 2010 10:11:23 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=167</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://www.dtcc.edu/cs/rfc1855.html" target="_blank">RFC 1855 Netiquette Guidelines</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>167</wp:post_id>
+  <wp:post_date>2010-08-28 10:11:23</wp:post_date>
+  <wp:post_date_gmt>2010-08-28 10:11:23</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>how-to-behave-on-the-net</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="education"><![CDATA[education]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Dodge v. Ford Motor Company</title>
+  <link>https://zieglerk.wordpress.com/2010/08/28/dodge-v-ford-motor-company/</link>
+  <pubDate>Sat, 28 Aug 2010 22:19:15 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=170</guid>
+  <description/>
+  <content:encoded><![CDATA[<p id="firstHeading"><a href="http://en.wikipedia.org/wiki/Dodge_v._Ford_Motor_Company" target="_blank">Dodge v. Ford Motor Company</a></p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>170</wp:post_id>
+  <wp:post_date>2010-08-28 22:19:15</wp:post_date>
+  <wp:post_date_gmt>2010-08-28 22:19:15</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>dodge-v-ford-motor-company</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Lamont v. Postmaster General</title>
+  <link>https://zieglerk.wordpress.com/2010/08/28/lamont-v-postmaster-general/</link>
+  <pubDate>Sat, 28 Aug 2010 22:20:16 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=172</guid>
+  <description/>
+  <content:encoded><![CDATA[<p id="firstHeading"><a href="http://en.wikipedia.org/wiki/Lamont_v._Postmaster_General" target="_blank">Lamont v. Postmaster General</a></p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>172</wp:post_id>
+  <wp:post_date>2010-08-28 22:20:16</wp:post_date>
+  <wp:post_date_gmt>2010-08-28 22:20:16</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>lamont-v-postmaster-general</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>The Difference</title>
+  <link>https://zieglerk.wordpress.com/2010/08/28/the-difference/</link>
+  <pubDate>Sat, 28 Aug 2010 22:24:29 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=176</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://xkcd.com/242/" target="_blank">xkcd 242</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>176</wp:post_id>
+  <wp:post_date>2010-08-28 22:24:29</wp:post_date>
+  <wp:post_date_gmt>2010-08-28 22:24:29</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-difference</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="fun"><![CDATA[fun]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Academia vs. Business</title>
+  <link>https://zieglerk.wordpress.com/2010/08/28/academia-vs-business/</link>
+  <pubDate>Sat, 28 Aug 2010 22:25:31 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=178</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://xkcd.com/664/" target="_blank">xkcd 664</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>178</wp:post_id>
+  <wp:post_date>2010-08-28 22:25:31</wp:post_date>
+  <wp:post_date_gmt>2010-08-28 22:25:31</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>academia-vs-business</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="fun"><![CDATA[fun]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Benford's Law</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/benfords-law/</link>
+  <pubDate>Sun, 29 Aug 2010 08:40:30 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=187</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://en.wikipedia.org/wiki/Benford%27s_law" target="_blank">Benford's Law</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>187</wp:post_id>
+  <wp:post_date>2010-08-29 08:40:30</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 08:40:30</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>benfords-law</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Base rate fallacy</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/base-rate-fallacy/</link>
+  <pubDate>Sun, 29 Aug 2010 08:41:08 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=189</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank">Base rate fallacy</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>189</wp:post_id>
+  <wp:post_date>2010-08-29 08:41:08</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 08:41:08</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>base-rate-fallacy</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Impossibility Theorem by Balinski and Young</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/impossibility-theorem-by-balinski-and-young/</link>
+  <pubDate>Sun, 29 Aug 2010 08:42:21 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=191</guid>
+  <description/>
+  <content:encoded><![CDATA[<p id="firstHeading"><a href="http://en.wikipedia.org/wiki/Apportionment_paradox" target="_blank">Apportionment paradox</a></p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>191</wp:post_id>
+  <wp:post_date>2010-08-29 08:42:21</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 08:42:21</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>impossibility-theorem-by-balinski-and-young</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Arrow's impossibility theorem</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/arrows-impossibility-theorem/</link>
+  <pubDate>Sun, 29 Aug 2010 08:43:08 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=193</guid>
+  <description/>
+  <content:encoded><![CDATA[<p id="firstHeading"><a href="http://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem" target="_blank">Arrow's impossibility theorem</a></p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>193</wp:post_id>
+  <wp:post_date>2010-08-29 08:43:08</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 08:43:08</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>arrows-impossibility-theorem</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Sprachfeminismus in der Sackgasse</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/sprachfeminismus-in-der-sackgasse/</link>
+  <pubDate>Sun, 29 Aug 2010 09:14:08 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=197</guid>
+  <description/>
+  <content:encoded><![CDATA[Arthur Br&amp;uuml;hlmeier,<a href="http://www.bruehlmeier.info/sprachfeminismus.htm" target="_blank"> Sprachfeminismus in der Sackgasse</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>197</wp:post_id>
+  <wp:post_date>2010-08-29 09:14:08</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 09:14:08</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>sprachfeminismus-in-der-sackgasse</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Open Source Mathematical Software</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/open-source-mathematical-software/</link>
+  <pubDate>Sun, 29 Aug 2010 09:34:27 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=201</guid>
+  <description/>
+  <content:encoded><![CDATA[David Joyner and William Stein, <a href="http://www.ams.org/notices/200710/tx071001279p.pdf" target="_blank">Opinion: Open Source Mathematical Software,</a> Notices of the AMS, November 2007, p. 1279.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>201</wp:post_id>
+  <wp:post_date>2010-08-29 09:34:27</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 09:34:27</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>open-source-mathematical-software</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-08-29 09:34:27";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Locked in by license restrictions</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/locked-in-by-license-restrictions/</link>
+  <pubDate>Sun, 29 Aug 2010 09:35:53 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=203</guid>
+  <description/>
+  <content:encoded><![CDATA[Jan Stafford, <a href="Locked in by license restrictions" target="_blank">The Wrong Choice: Locked in by license restrictions</a>, SearchEnterpriseLinux.com, 21 May 2003 (retrieved on 28 March 2010).]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>203</wp:post_id>
+  <wp:post_date>2010-08-29 09:35:53</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 09:35:53</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>locked-in-by-license-restrictions</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-08-29 09:35:53";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Lessons from fashion's free culture</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/lessons-from-fashions-free-culture/</link>
+  <pubDate>Sun, 29 Aug 2010 09:38:59 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=207</guid>
+  <description/>
+  <content:encoded><![CDATA[Johanna Blakley, <a href="http://blog.ted.com/2010/05/25/lessons_from_fa/" target="_blank">Lessons from fashion's free culture</a>, TED Blog, 25 May 2010 (retrieved 29 August 2010).]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>207</wp:post_id>
+  <wp:post_date>2010-08-29 09:38:59</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 09:38:59</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>lessons-from-fashions-free-culture</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-08-29 09:38:59";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Intellectual Property is a Seductive Mirage</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/intellectual-property-is-a-seductive-mirage/</link>
+  <pubDate>Sun, 29 Aug 2010 09:41:36 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=209</guid>
+  <description/>
+  <content:encoded><![CDATA[Richard M. Stallman,  <a href="http://www.gnu.org/philosophy/not-ipr.html" target="_blank"> Did You Say “Intellectual Property”?  It's a Seductive Mirage</a>, gnu.org, 29 July 2010 (retrieved 29 August 2010).]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>209</wp:post_id>
+  <wp:post_date>2010-08-29 09:41:36</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 09:41:36</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>intellectual-property-is-a-seductive-mirage</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-08-29 09:41:36";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Still Life</title>
+  <link>https://zieglerk.wordpress.com/2010/08/29/still-life/</link>
+  <pubDate>Sun, 29 Aug 2010 09:49:11 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=212</guid>
+  <description/>
+  <content:encoded><![CDATA[Luc Benard and Richard Palais, <a href="http://excalibur.renderosity.com/mod/gallery/index.php?image_id=1298076&amp;member" target="_blank">Still Life: Five Glass Surfaces on a Tabletop</a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>212</wp:post_id>
+  <wp:post_date>2010-08-29 09:49:11</wp:post_date>
+  <wp:post_date_gmt>2010-08-29 09:49:11</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>still-life</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="fun"><![CDATA[fun]]></category>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>We feed the world</title>
+  <link>https://zieglerk.wordpress.com/2010/08/30/we-feed-the-world/</link>
+  <pubDate>Mon, 30 Aug 2010 15:36:46 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=214</guid>
+  <description/>
+  <content:encoded><![CDATA[Erwin Wagenhofer, <a href="http://video.google.com/videoplay?docid=-7738550412129841717#" target="_blank">We feed the world</a>, 2005.
+<blockquote>FAO estimates that 1.02 billion people are undernourished worldwide in 2009.
+
+FAO, <a href="ftp://ftp.fao.org/docrep/fao/012/i0876e/i0876e00.pdf" target="_blank">the state of food insecurity in the world</a>, 2009, p. 2.</blockquote>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>214</wp:post_id>
+  <wp:post_date>2010-08-30 15:36:46</wp:post_date>
+  <wp:post_date_gmt>2010-08-30 15:36:46</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>we-feed-the-world</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-08-30 15:36:46";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Gemein-Freiheit</title>
+  <link>https://zieglerk.wordpress.com/2010/08/31/gemein-freiheit/</link>
+  <pubDate>Tue, 31 Aug 2010 15:11:26 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=219</guid>
+  <description/>
+  <content:encoded><![CDATA[Sebastian Krämer, <a href="http://www.swr.de/swr2/programm/sendungen/wissen/gemein-freiheit/-/id=660374/nid=660374/did=6659590/1ljkjp5/index.html" target="_blank">Gemein-Freiheit</a>, SWR 2 Wissen.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>219</wp:post_id>
+  <wp:post_date>2010-08-31 15:11:26</wp:post_date>
+  <wp:post_date_gmt>2010-08-31 15:11:26</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>gemein-freiheit</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-08-31 15:11:26";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Patent Absurdity</title>
+  <link>https://zieglerk.wordpress.com/2010/09/03/patent-absurdity/</link>
+  <pubDate>Fri, 03 Sep 2010 14:24:53 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=222</guid>
+  <description/>
+  <content:encoded><![CDATA[Luca Lucarini, <a href="http://patentabsurdity.com/watch.html" target="_blank">Patent Absurdity: how software patents broke the system</a>, 2010.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>222</wp:post_id>
+  <wp:post_date>2010-09-03 14:24:53</wp:post_date>
+  <wp:post_date_gmt>2010-09-03 14:24:53</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>patent-absurdity</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <category domain="category" nicename="politics"><![CDATA[politics]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-09-03 14:25:11";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Patent for "Operating system shut down"</title>
+  <link>https://zieglerk.wordpress.com/2010/09/04/patent-called-operating-system-shut-down/</link>
+  <pubDate>Sat, 04 Sep 2010 10:24:06 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=226</guid>
+  <description/>
+  <content:encoded><![CDATA[Switzer et al, <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/PTO/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=7,788,474.PN.&amp;OS=PN/7,788,474&amp;RS=PN/7,788,474" target="_blank">Operating system shut down</a>, 31 August 2010.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>226</wp:post_id>
+  <wp:post_date>2010-09-04 10:24:06</wp:post_date>
+  <wp:post_date_gmt>2010-09-04 10:24:06</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>patent-called-operating-system-shut-down</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Donald E. Knuth on Software Patents</title>
+  <link>https://zieglerk.wordpress.com/2010/09/04/donald-e-knuth-on-software-patents/</link>
+  <pubDate>Sat, 04 Sep 2010 11:39:23 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=231</guid>
+  <description/>
+  <content:encoded><![CDATA[Donald E. Knuth, <a href="http://www.groklaw.net/images/G308Knuth.pdf" target="_blank">Letter to Alison J Brimelow</a>, President, European Patent Office, 24 April 2009. Attachments include a letter of his to the US Patent Commissioner (1994) and the transcript of a talk by him at the TU Munich (2001) with related information.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>231</wp:post_id>
+  <wp:post_date>2010-09-04 11:39:23</wp:post_date>
+  <wp:post_date_gmt>2010-09-04 11:39:23</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>donald-e-knuth-on-software-patents</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>complex systems</title>
+  <link>https://zieglerk.wordpress.com/2010/09/09/complex-systems/</link>
+  <pubDate>Thu, 09 Sep 2010 15:09:32 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=235</guid>
+  <description/>
+  <content:encoded><![CDATA[Terry Tao, <a href="http://terrytao.wordpress.com/2010/09/07/a-first-draft-of-a-non-technical-article-on-universality/" target="_blank">A first draft of a non-technical article on universality</a> on <a href="http://en.wikipedia.org/wiki/Universality_%28dynamical_systems%29" target="_blank">universality</a> and <a href="http://en.wikipedia.org/wiki/Emergence" target="_blank">emergence</a> (though he does not explicitely name the latter).]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>235</wp:post_id>
+  <wp:post_date>2010-09-09 15:09:32</wp:post_date>
+  <wp:post_date_gmt>2010-09-09 15:09:32</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>complex-systems</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>real threats</title>
+  <link>https://zieglerk.wordpress.com/2010/09/09/real-threats/</link>
+  <pubDate>Thu, 09 Sep 2010 18:43:24 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=239</guid>
+  <description/>
+  <content:encoded><![CDATA[npr, <a href="http://www.npr.org/blogs/health/2010/08/30/129531631/5-worries-parents-should-drop-and-5-they-should">5  Worries Parents Should Drop, And 5 They Shouldn't</a>
+<blockquote>Based on surveys Barnes collected, the top five worries of parents are, in  order:
+<ol>
+	<li>Kidnapping</li>
+	<li>School snipers</li>
+	<li>Terrorists</li>
+	<li>Dangerous strangers</li>
+	<li>Drugs</li>
+</ol>
+But how do children really get hurt or killed?
+<ol>
+	<li>Car accidents</li>
+	<li>Homicide (usually committed by a person who knows the  child, not a stranger)</li>
+	<li>Abuse</li>
+	<li>Suicide</li>
+	<li>Drowning</li>
+</ol>
+</blockquote>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>239</wp:post_id>
+  <wp:post_date>2010-09-09 18:43:24</wp:post_date>
+  <wp:post_date_gmt>2010-09-09 18:43:24</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>real-threats</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="education"><![CDATA[education]]></category>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="psychology"><![CDATA[psychology]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>tagazine-media</wp:meta_key>
+    <wp:meta_value><![CDATA[a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"3906833";s:7:"blog_id";s:7:"3667412";s:9:"mod_stamp";s:19:"2010-09-09 18:43:24";}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Why Nobel prize winner Andre Geim did not patent graphene</title>
+  <link>https://zieglerk.wordpress.com/2010/10/09/why-nobel-prize-winner-andre-geim-did-not-patent-graphene/</link>
+  <pubDate>Sat, 09 Oct 2010 15:02:34 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/?p=242</guid>
+  <description/>
+  <content:encoded><![CDATA[<blockquote>We considered patenting; we prepared a patent and it was nearly filed. Then I had an interaction with a big, multinational electronics company. I approached a guy at a conference and said, "We've got this patent coming up, would you be interested in sponsoring it over the years?" It's quite expensive to keep a patent alive for 20 years. The guy told me, "We are looking at graphene, and it might have a future in the long term. If after ten years we find it's really as good as it promises, we will put a hundred patent lawyers on it to write a hundred patents a day, and you will spend the rest of your life, and the gross domestic product of your little island, suing us." That's a direct quote.</blockquote>
+Source: <a href="http://www.nature.com/news/2010/101007/full/news.2010.525.html" target="_blank">Andre Geim: in praise of graphene</a>, interview with nature news, published online <abbr title="2010-10-07T14:45:33Z">7 October 2010</abbr>, doi:10.1038/news.2010.525 (last accessed: 9 Oct 2010)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>242</wp:post_id>
+  <wp:post_date>2010-10-09 15:02:34</wp:post_date>
+  <wp:post_date_gmt>2010-10-09 15:02:34</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>why-nobel-prize-winner-andre-geim-did-not-patent-graphene</wp:post_name>
+  <wp:status>private</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="generale"><![CDATA[generale]]></category>
+  <category domain="category" nicename="law"><![CDATA[law]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_old_slug</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Interlaced eigenvalues à la Alasdair</title>
+  <link>https://zieglerk.wordpress.com/2011/09/11/interlaced-eigenvalues-a-la-alasdair/</link>
+  <pubDate>Sun, 11 Sep 2011 14:04:06 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/2011/09/11/interlaced-eigenvalues-a-la-alasdair/</guid>
+  <description/>
+  <content:encoded><![CDATA[<p>Alasdair gave in his blog post <a href="https://amca01.wordpress.com/2011/08/22/interlaced-eigenvalues/" title="Interlaced eigenvalues" target="_blank">Interlaced eigenvalues</a> a small Matlab/Octave example around the following beautiful result due to Cauchy:</p><blockquote><p>Let $latex A$ be an $latex n \times n$ Hermitian matrix with eigenvalues $latex \lambda_1 \leq \lambda_2 \leq \dots \leq \lambda_n$ and let the matrix $latex B$ be obtained from $latex A$ by removing the $latex i$th row and the $latex i$th column for some $latex 1 \leq i \leq n$. Then the eigenvalues of $latex B$ $latex \mu_1 \leq \mu_2 \leq \dots \leq \mu_{n-1}$ satisfy the interlacing</p></blockquote><blockquote><p>$latex \displaystyle \lambda_1 \leq \mu_1 \leq \lambda_2 \leq \mu_2 \leq \lambda_3 \leq \dots \leq \mu_{n-1} \leq \lambda_n$.</p></blockquote><p>Alasdair gave a little Matlab/Octave experiment to illiustrate this and we reproduce it here using SAGE (sticking to his notation for comparison).</p><p><code>sage: n = 4</code></p><p><code>sage: D = diagonal_matrix(range(1,n+1))</code></p><p><code>sage: D</code></p><p><code>[1 0 0 0]</code></p><p><code>[0 2 0 0]</code></p><p><code>[0 0 3 0]</code></p><p><code>[0 0 0 4]</code></p><p><code>sage: R = random_matrix(RR,n)</code></p><p><code>sage: R</code></p><p><code>[ 0.778692495501054 -0.135208587751857 0.257223918336617 0.774429743108338]</code></p><p><code>[ 0.423676053284628 0.417711760181128 0.241748509057067 0.961897138926902]</code></p><p><code>[ 0.761841048992683 0.728238125048413 -0.919597769483716 0.778538514077347]</code></p><p><code>[-0.459693778794198 -0.349046725059769 -0.969387932465504 -0.922931517520695]</code></p><p><code>sage: S = R - R.transpose()</code></p><p><code>sage: Q = (S-identity_matrix(n)).inverse()*(S+identity_matrix(n))</code></p><p><code>sage: M = Q*D*Q.transpose()</code></p><p><code>sage: M</code></p><p><code>[ 1.95237691577229 0.231093937356808 0.216951816905018 0.296266773415154]</code></p><p><code>[ 0.231093937356808 2.92188071228280 0.263114531184218 0.0747380763688735]</code></p><p><code>[ 0.216951816905018 0.263114531184218 2.90749330981640 -1.36941012136363]</code></p><p><code>[ 0.296266773415154 0.0747380763688735 -1.36941012136363 2.21824906212850]</code></p><p><code>sage: M.eigenvalues()</code></p><p><code>[3.99999999999999, 3.00000000000003, 1.99999999999998, 1.00000000000000]</code></p><p><code>sage: x = range(n)</code></p><p><code>sage: x.remove(randint(0,3)</code></p><p><code>sage: N = M.matrix_from_rows_and_columns(x,x)</code></p><p><code>sage: N</code></p><p><code>[ 1.95237691577229 0.216951816905018 0.296266773415154]</code></p><p><code>[0.216951816905018 2.90749330981640 -1.36941012136363]</code></p><p><code>[0.296266773415154 -1.36941012136363 2.21824906212850]</code></p><p><code>sage: N.eigenvalues()</code></p><p><code>[3.97504068833705, 2.09499000737375, 1.00808859200640]</code></p><p>Footnote: We had to take a little detour to delete some rows and columns from a matrix. It turns out, that this feature is already <a href="http://trac.sagemath.org/sage_trac/ticket/11528" title="Ticket #1528">Ticket #11528</a> on the trac server of sage.</p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>247</wp:post_id>
+  <wp:post_date>2011-09-11 14:04:06</wp:post_date>
+  <wp:post_date_gmt>2011-09-11 14:04:06</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>interlaced-eigenvalues-a-la-alasdair</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="math"><![CDATA[math]]></category>
+</item>
+<item>
+  <title>The volume of the unit ball</title>
+  <link>https://zieglerk.wordpress.com/2011/10/24/the-volume-of-the-unit-ball/</link>
+  <pubDate>Mon, 24 Oct 2011 21:42:07 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.wordpress.com/2011/10/24/the-volume-of-the-unit-ball/</guid>
+  <description/>
+  <content:encoded><![CDATA[<p>Brian Hayes writes in the recent issue of American Scientist on <a href="http://www.americanscientist.org/libraries/documents/201110101628308738-2011-11CompSciHayes.pdf" target="_blank">An Adventure in the </a><a href="http://www.americanscientist.org/libraries/documents/201110101628308738-2011-11CompSciHayes.pdf" target="_blank"><em>N</em></a><a href="http://www.americanscientist.org/libraries/documents/201110101628308738-2011-11CompSciHayes.pdf" target="_blank">th Dimension</a>. He beautifully explores the surprising development of the volume (and the surface) of the unit ball as the dimension increases. This is best illustrated by reproducing the graphs of the two functions (extending the domain to the positive reals). The following SAGE code (re)produces the plots which were presented by Paul Renno Heyl (Properties of the locus r = constant in space of n dimensions, 1897).</p><p><code>def V(n):</code></p><p><code> return pi.n()^(n/2.)/gamma(n/2.+1)</code></p><p><code>def A(n):</code></p><p><code> return n*V(n)</code></p><p><code>G = plot(A, 0, 20, color = 'red', legend_label='surface of unit ball') + list_plot([A(n) for n in srange(20)], color = 'red') </code></p><p><code>G += plot(V, 0, 20, color = 'blue', legend_label='volume of unit ball') + list_plot([V(n) for n in srange(20)], color='blue')</code></p><p><code>G.show()</code></p><p><img src="http://zieglerk.files.wordpress.com/2011/10/unit_ball-av.png" title="surface and volume of the unit ball" /></p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>254</wp:post_id>
+  <wp:post_date>2011-10-24 21:42:07</wp:post_date>
+  <wp:post_date_gmt>2011-10-24 21:42:07</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-volume-of-the-unit-ball</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+</item>
+<item>
+  <title>unit_ball-AV.png</title>
+  <link>https://zieglerk.wordpress.com/2011/10/24/the-volume-of-the-unit-ball/unit_ball-av-png/</link>
+  <pubDate>Mon, 24 Oct 2011 23:43:00 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">http://zieglerk.files.wordpress.com/2011/10/unit_ball-av.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>255</wp:post_id>
+  <wp:post_date>2011-10-24 23:43:00</wp:post_date>
+  <wp:post_date_gmt>2011-10-24 23:43:00</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>unit_ball-av-png</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>254</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://zieglerk.files.wordpress.com/2011/10/unit_ball-av.png</wp:attachment_url>
+</item>
+<item>
+  <title>Real-world Security</title>
+  <link>https://zieglerk.wordpress.com/2015/09/04/real-world-it-security/</link>
+  <pubDate>Fri, 04 Sep 2015 14:02:42 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">https://zieglerk.wordpress.com/?p=288</guid>
+  <description/>
+  <content:encoded><![CDATA[James Mickens gives an entertaining description of <a href="https://www.usenix.org/system/files/1401_08-12_mickens.pdf" target="_blank">This World of Ours</a> in the January 2014 edition of USENIX's ;login: logout. Here are two highlights.
+<blockquote>The "threat model" section of a security paper resembles the script for a telenovela that was written by a paranoid schizophrenic: [...] In the real world, threat modes are much simpler. Basically, you're either dealing with Mossad or not-Mossad.
+
+[...]</blockquote>
+<blockquote>Thinking about security is like thinking about where to ride your motorcycle: the safe places are no fun, and the fun places are not safe.</blockquote>
+Xkcd has illustrations of the <a href="https://xkcd.com/538/" target="_blank">former</a> and the <a href="https://www.xkcd.com/1200/" target="_blank">latter</a>.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>288</wp:post_id>
+  <wp:post_date>2015-09-04 14:02:42</wp:post_date>
+  <wp:post_date_gmt>2015-09-04 14:02:42</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>real-world-it-security</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[14428713004]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>RC4 considered harmful (again)</title>
+  <link>https://zieglerk.wordpress.com/2015/09/05/rc4-considered-harmful-again/</link>
+  <pubDate>Sat, 05 Sep 2015 20:14:40 +0000</pubDate>
+  <dc:creator>zieglerk</dc:creator>
+  <guid isPermaLink="false">https://zieglerk.wordpress.com/?p=292</guid>
+  <description/>
+  <content:encoded><![CDATA[RC4 is a fast and simple stream cipher. Two popular applications are WEP and TLS. For the former, it was broken in 2001. For the latter, the attacks are just getting better and better. They are all based on statistical bias in the keystream. (<a href="http://www.isg.rhul.ac.uk/tls/" target="_blank">AlFardan, </a><a href="http://cr.yp.to/djb.html">Bernstein</a><a href="http://www.isg.rhul.ac.uk/tls/" target="_blank">, </a><a href="http://www.isg.rhul.ac.uk/%7Ekp">Paterson</a><a href="http://www.isg.rhul.ac.uk/tls/" target="_blank">, Poettering &amp; Schuldt, 2013</a>, <a href="http://www.isg.rhul.ac.uk/tls/RC4mustdie.html" target="_blank">MGarman, Paterson &amp; van der Merwe, 2015</a>, and <a href="https://www.rc4nomore.com/" target="_blank">Vanhoef &amp; Piessens, 2015)</a> The latest attack decrypts a cookie with 94% success probability from material collected within 75 hours. To make things worse, the collection may be interrupted and in experiments 52 hours were sufficient.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>292</wp:post_id>
+  <wp:post_date>2015-09-05 20:14:40</wp:post_date>
+  <wp:post_date_gmt>2015-09-05 20:14:40</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>rc4-considered-harmful-again</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="security"><![CDATA[security]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[3906833]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[14472552456]]></wp:meta_value>
+  </wp:postmeta>
+</item>
