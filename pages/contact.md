@@ -19,9 +19,9 @@ My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
 [3]: http://howtopgp.jugendhackt.de/#/
 
 
-# Office
+# Visiting Address
 
-C 149 [Map][4]
+Office C 149 [Map][4]
 Hochschule Landshut [Map][5]
 Am Lurzenhof 1
 84036 Landshut
