@@ -26,7 +26,7 @@ Hochschule Landshut [Map][5]
 Am Lurzenhof 1
 84036 Landshut
 
-[4]: https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Hochschule/Anfahrt/170629_Gebaeudeplan.pdf
+[4]: https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Hochschule/Anfahrt/HSL_Lageplan_Campus.pdf
 [5]: https://www.haw-landshut.de/anfahrt.html
 
 # Mailing Address
