@@ -10,6 +10,20 @@ format: blog-index
 </div><!-- /#header-home -->
 
 
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+
+
+
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
@@ -100,14 +114,3 @@ format: blog-index
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
