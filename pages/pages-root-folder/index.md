@@ -13,7 +13,8 @@ image:
     caption: von OLB [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), vom Wikimedia Commons
     caption_url: https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JPG
 header:
-  image_fullwidth: "2013-01-26--Koeln--web--square.jpg"
+    no
+#   image: "2013-01-26--Koeln--web--square.jpg"
 # widget1:
 #   title: "Widget 1"
 #   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
