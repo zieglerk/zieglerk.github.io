@@ -1,9 +1,9 @@
 <!-- _includes/image.html -->
-<div class="image-wrapper" >
-        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+<figure>
+        <img src="{{ site.urlimg }}/{{ include.img }}" alt="{{ include.title }}"/>
 
     {% if include.author %}
-    <p class="image-caption">Source:
+    <figcaption class="text-right">Source:
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
     {% endif %}
@@ -20,6 +20,6 @@
         </a>
         {% endif %}
       {% endif %}
-      </p>
+      </figcaption>
     {% endif %}
-</div>
+</figure>
