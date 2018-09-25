@@ -6,7 +6,17 @@ permalink: /index.html
 #     no
 ---
 
-Welcome, this is a relaunch of my homepage at
+# Welcome
+
+I am a researcher, teacher, and administrator with interests in information hiding and retrieval. So, I do cryptography and machine learning. My [research]({{ site.baseurl }}{% link pages/research.md %}) page offers more detailed descriptions. I also enjoy the occasional game theory and play volleyball.
+
+You can find my articles under [publications]({{ site.baseurl }}{%
+link pages/publications.md %}) and the accompanying sagemath/python
+programs under [software]({{ site.baseurl }}{% link pages/software.md %}). My courses and presentations are filed under [teachings]({{ site.baseurl }}{% link pages/teachings.md %}) and [talks]({{ site.baseurl }}{% link pages/talks.md %}), respectively.
+
+# History
+
+This is a relaunch of my homepage at
 [zieglerk.net](http://zieglerk.net) using jekyll instead of
 pure-html. Most of the static content is in English (legacy), while the
 blogging has gradually moved to German.
