@@ -2,15 +2,19 @@
 layout: page
 title: "Publications"
 header: no
-image:
-    title: "Historischer_Bibliothekssaal-800px.jpg"
-    thumb: "Historischer_Bibliothekssaal-128px.jpg"
-    caption: von OLB [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), vom Wikimedia Commons
-    caption_url: https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JPG
 permalink: "/publications/"
 breadcrumb: true
 show_meta: false
 ---
+
+{% include image.html
+   img="Historischer_Bibliothekssaal-800px.jpg"
+   caption_url="https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JGP"
+   title="Historischer Bibliothekssaal"
+   author="OLB via Wikimedia Commons"
+   license="CC BY-SA 3.0"
+   license-url="https://creativecommons.org/licenses/by-sa/3.0"
+%}
 
 <div class="panel radius" markdown="1">
 **Table of Contents**
