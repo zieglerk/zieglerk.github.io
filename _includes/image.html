@@ -9,7 +9,7 @@
     {% endif %}
 
     {% if include.author %}
-      <p class="image-caption">Image by {{ include.author }}{% if include.license %},
+      <p class="image-caption">Quelle: "{{ include.title }}" by {{ include.author }}{% if include.license %},
        {% if include.license-url %}
         <a href="{{ include.license-url }}" target="_blank">
         {% endif %}
