@@ -8,7 +8,7 @@ show_meta: false
 ---
 
 {% include image.html
-   img="Historischer_Bibliothekssaal-800px.jpg"
+   img="image/Historischer_Bibliothekssaal-800px.jpg"
    caption_url="https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JGP"
    title="Historischer Bibliothekssaal"
    author="OLB via Wikimedia Commons"
