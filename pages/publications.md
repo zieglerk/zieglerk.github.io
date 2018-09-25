@@ -6,7 +6,7 @@ permalink: "/publications/"
 breadcrumb: true
 show_meta: false
 image:
-    img: "images/Historischer_Bibliothekssaal-800px.jpg"
+    img: "Historischer_Bibliothekssaal-800px.jpg"
     url: "https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JGP"
     title: "Historischer Bibliothekssaal"
     author: "OLBZzz via Wikimedia Commons"
