@@ -10,6 +10,15 @@ show_meta: false
 > which they can learn.
 <cite>Albert Einstein</cite>
 
+## Winter 2018
+
+- Lecture &amp; Tutorial: Analysis 3
+- Lecture &amp; Tutorial: Ingenieurmathematik 1
+- Lecture &amp; Tutorial (Blended Learning Course): Applied Physics
+- Lab Course: Experimental Physics 2
+- Seminar: HAWllywood
+
+
 ## Summer 2018
 
 - Lecture &amp; Tutorial: Analysis 1 & 2
