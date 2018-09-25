@@ -4,8 +4,15 @@ title: "Talks"
 permalink: "/talks/"
 breadcrumb: true
 show_meta: false
+header: no
+image:
+    img: "Landshut-1024x553.jpg"
+    url: "https://flic.kr/p/jfxE5v"
+    title: "Landshut, St. Martin"
+    author: "Polybert49 via flickr"
+    license: "CC BY-SA 2.0"
+    license-url: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
-
 
 ## Representation Learning and Transfer Learning
 

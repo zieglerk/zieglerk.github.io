@@ -1,15 +1,15 @@
 ---
 layout: page
 title: "Publications"
-header: no
 permalink: "/publications/"
 breadcrumb: true
 show_meta: false
+header: no
 image:
     img: "Historischer_Bibliothekssaal-800px.jpg"
     url: "https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JGP"
     title: "Historischer Bibliothekssaal"
-    author: "OLBZzz via Wikimedia Commons"
+    author: "OLB via Wikimedia Commons"
     license: "CC BY-SA 3.0"
     license-url: "https://creativecommons.org/licenses/by-sa/3.0"
 ---
