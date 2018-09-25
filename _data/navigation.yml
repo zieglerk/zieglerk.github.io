@@ -46,7 +46,7 @@
     url: "/blog/archive/"
 
 - title: "About Me"
-  url: "/info/"
+  url: "/about-me/"
   side: right
 
 - title: "Search"
@@ -54,5 +54,5 @@
   side: right
 
 - title: "Contact"
-  url: "/about-me/"
+  url: "/contact/"
   side: right
