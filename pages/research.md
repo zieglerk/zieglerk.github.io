@@ -4,6 +4,15 @@ title: "Research"
 permalink: "/research/"
 breadcrumb: true
 show_meta: false
+header: no
+image:
+    img: "1024px-Earth_Rise_as_Seen_From_Lunar_Surface.jpg"
+    url: "https://commons.wikimedia.org/wiki/File:Earth_Rise_as_Seen_From_Lunar_Surface_(5052124921).jpg"
+    title: "Earthrise"
+    author: "NASA/Apollo 11 via Wikimedia Commons"
+    license: "CC0 (Public Domain)"
+    license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
+
 ---
 
 > All is fair in war, love, and mathematics.

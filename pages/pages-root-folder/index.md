@@ -6,13 +6,13 @@ permalink: /index.html
 #     no
 ---
 
-# Welcome
+<img align="right" src="images/Carl_Spitzweg_021-detail.jpg" />
 
 I am a researcher, teacher, and administrator with interests in information hiding and retrieval. So, I do cryptography and machine learning. My [research]({{ site.baseurl }}{% link pages/research.md %}) page offers more detailed descriptions. I also enjoy the occasional game theory and play volleyball.
 
 You can find my articles under [publications]({{ site.baseurl }}{%
 link pages/publications.md %}) and the accompanying sagemath/python
-programs under [software]({{ site.baseurl }}{% link pages/software.md %}). My courses and presentations are filed under [teachings]({{ site.baseurl }}{% link pages/teachings.md %}) and [talks]({{ site.baseurl }}{% link pages/talks.md %}), respectively.
+programs under [software]({{ site.baseurl }}{% link pages/software.md %}). My courses and presentations are filed under [teachings]({{ site.baseurl }}{% link pages/teaching.md %}) and [talks]({{ site.baseurl }}{% link pages/talks.md %}), respectively.
 
 # History
 

@@ -6,7 +6,7 @@
 #
 layout: frontpage
 title: Welcome
-permalink: /index.html
+permalink: /old-index-with-blogroll.html
 image:
     title: "Historischer_Bibliothekssaal-800px.jpg"
     thumb: "Historischer_Bibliothekssaal-128px.jpg"
