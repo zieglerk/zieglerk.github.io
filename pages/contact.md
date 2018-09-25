@@ -27,7 +27,7 @@ My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
 `84036 Landshut`
 
 [4]: https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Hochschule/Anfahrt/HSL_Lageplan_Campus.pdf
-[5]: https://www.haw-landshut.de/anfahrt.html
+[5]: https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Hochschule/Anfahrt/landshut.jpg
 
 # Mailing Address
 
