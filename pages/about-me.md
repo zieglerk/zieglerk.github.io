@@ -3,7 +3,7 @@ layout: page
 title: "Konstantin Ziegler"
 subheadline: "About Me"
 teaser: ""
-permalink: /info/
+permalink: /about-me/
 ---
 
 I am a researcher, teacher, and administrator with interests in information hiding and retrieval. So, I do cryptography and machine learning. My [research]({{ site.baseurl }}{% link pages/research.md %}) page offers more detailed descriptions. I also enjoy the occasional game theory and play volleyball.
