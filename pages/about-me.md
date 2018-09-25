@@ -5,6 +5,8 @@ subheadline: "About Me"
 permalink: "/about-me/"
 breadcrumb: true
 show_meta: false
+# header: no
+# image: "2013-01-26--Koeln--web--square.jpg"
 ---
 
 I am a researcher, teacher, and administrator with interests in information hiding and retrieval. So, I do cryptography and machine learning. My [research]({{ site.baseurl }}{% link pages/research.md %}) page offers more detailed descriptions. I also enjoy the occasional game theory and play volleyball.
