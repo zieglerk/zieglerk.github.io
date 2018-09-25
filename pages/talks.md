@@ -1,11 +1,9 @@
 ---
-title: "Talks"
-subheadline: "TODO"
 layout: page
-show_meta: false
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
+title: "Talks"
 permalink: "/talks/"
+breadcrumb: true
+show_meta: false
 ---
 
 

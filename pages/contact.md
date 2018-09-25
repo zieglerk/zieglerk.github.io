@@ -2,11 +2,10 @@
 layout: page
 title: "Contact"
 meta_title: "Contact"
-subheadline: ""
-teaser: ""
 permalink: "/contact/"
+breadcrumb: true
+show_meta: false
 ---
-
 
 # Email
 
@@ -36,4 +35,3 @@ My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
     Am Lurzenhof 1
     D-84036 Landshut
     Germany
-

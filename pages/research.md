@@ -1,11 +1,9 @@
 ---
 layout: page
-show_meta: false
 title: "Research"
-subheadline: "TODO"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/research/"
+breadcrumb: true
+show_meta: false
 ---
 
 > All is fair in war, love, and mathematics.

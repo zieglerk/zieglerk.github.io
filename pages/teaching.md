@@ -1,11 +1,9 @@
 ---
 layout: page
-show_meta: false
 title: "Teaching"
-subheadline: "TODO"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/teaching/"
+breadcrumb: true
+show_meta: false
 ---
 
 > I never teach my pupils, I only attempt to provide the conditions in

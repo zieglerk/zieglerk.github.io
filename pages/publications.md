@@ -1,14 +1,13 @@
 ---
 layout: page
-subheadline: "TODO"
 title: "Publications"
-permalink: "/publications/"
 header: no
 image:
     title: "Historischer_Bibliothekssaal-800px.jpg"
     thumb: "Historischer_Bibliothekssaal-128px.jpg"
     caption: von OLB [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), vom Wikimedia Commons
     caption_url: https://commons.wikimedia.org/wiki/File:Historischer_Bibliothekssaal.JPG
+permalink: "/publications/"
 breadcrumb: true
 show_meta: false
 ---

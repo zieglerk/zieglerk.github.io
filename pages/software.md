@@ -1,11 +1,9 @@
 ---
 layout: page
-show_meta: false
 title: "Software"
-subheadline: "TODO"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/software/"
+breadcrumb: true
+show_meta: false
 ---
 
 > In theory, there is no difference between theory and
