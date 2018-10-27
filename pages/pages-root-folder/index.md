@@ -21,8 +21,9 @@ under [software]({{ site.baseurl }}{% link pages/software.md %}). My
 courses and presentations are filed under [teachings]({{ site.baseurl
 }}{% link pages/teaching.md %}) and [talks]({{ site.baseurl }}{% link
 pages/talks.md %}), respectively. There's also a [blog]({{
-site.baseurl }}{% link blog/ %})) with rough notes (a la "How to ...?")
-and random snippets of information (a la "What is ...?").
+site.baseurl }}{% link blog/index.html %})) with rough notes (a la
+"How to ...?")  and random snippets of information (a la "What is
+...?").
 
 # History
 
