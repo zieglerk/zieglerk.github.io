@@ -9,10 +9,20 @@ permalink: /index.html
 <img src="images/Carl_Spitzweg_021-detail.jpg" alt="Der
 B&uuml;cherwurm" align="right"/>
 
-I am a researcher, teacher, and administrator with interests in information hiding and retrieval. So, I do cryptography and machine learning. My [research]({{ site.baseurl }}{% link pages/research.md %}) page offers more detailed descriptions. I also enjoy the occasional game theory and play volleyball.
+I am a researcher, teacher, and administrator with interests in
+information hiding and retrieval. So, I do cryptography and machine
+learning. My [research]({{ site.baseurl }}{% link pages/research.md
+%}) page offers more detailed descriptions. I also enjoy the
+occasional game theory and play volleyball.
 
 You can find my articles under [publications]({{ site.baseurl }}{%
-link pages/publications.md %}) and the accompanying python programs under [software]({{ site.baseurl }}{% link pages/software.md %}). My courses and presentations are filed under [teachings]({{ site.baseurl }}{% link pages/teaching.md %}) and [talks]({{ site.baseurl }}{% link pages/talks.md %}), respectively.
+link pages/publications.md %}) and the accompanying python programs
+under [software]({{ site.baseurl }}{% link pages/software.md %}). My
+courses and presentations are filed under [teachings]({{ site.baseurl
+}}{% link pages/teaching.md %}) and [talks]({{ site.baseurl }}{% link
+pages/talks.md %}), respectively. There's also a [blog]({{
+site.baseurl }}{% link blog %})) with rough notes (a la "How to ...?")
+and random snippets of information (a la "What is ...?").
 
 # History
 
