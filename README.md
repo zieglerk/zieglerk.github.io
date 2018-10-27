@@ -68,6 +68,7 @@ information through a local run.
 
 ## TODOs
 
+- [ ] add a timestamp "last modified: <file-date>" to template
 - Do we need a LICENSE file?
 - Have 1 disclaimer (possibly as part of about) and link from this
   readme and the footer
@@ -75,7 +76,6 @@ information through a local run.
 - [ ] blog posts need to start with an image; default: photo of the presenter
 - [ ] pick and add a favicon/logo
 - [ ] add search functionality
-- [ ] add a timestamp "last modified: <file-date>" to template
 
 https://guides.github.com/features/issues/
 
