@@ -18,14 +18,6 @@ image:
 > All is fair in war, love, and mathematics.
 <cite>Eric Temple Bell</cite>
 
-
-<ul>
-    {% for post in site.categories.research %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-
-
 ## Cryptographic Protocols
 
 Alice and Bob are two millionaires. They want to
@@ -99,3 +91,11 @@ The decomposition of polynomials has many applications.
 - It is the underlying structure of iterated block ciphers. Then
   decomposition is equivalent to breaking.
 - Finally, you find it in Beethoven's compositions.
+
+# Blog posts tagged "research"
+
+<ul>
+    {% for post in site.categories.research %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
