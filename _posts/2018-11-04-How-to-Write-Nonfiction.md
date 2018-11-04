@@ -1,13 +1,25 @@
 ---
-title: "How to Write Scientific English"
+title: "How to Write Nonfiction"
 layout: page
 ---
 
 this is on a language level, there are also how-tos on a paper level
-or on a technical (LaTeX) level.
+or on a technical (LaTeX) level. This is mostly phrased for English,
+but holds for German as well. In fact, the first text I recall reading
+on this topic is Wolf Schneider's "Deutsch fürs Leben".
 
 * TOC-placeholder-line
 {:toc}
+
+"Treat the reader's time as more valuable than your own." -- Josh
+Bernoff, Writing Without Bullshit, Harper Business
+
+- Get to the point.
+- Avoid passive constructions.
+- Eliminate jargon, qualifiers, and weasel words ("probably",
+  "several").
+- Identify your audience and don't be shy about addressing them in the
+  second person.
 
 # from Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1987), [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 
@@ -35,7 +47,7 @@ wrap-up, everybody then picked one of the points that Knuth mentions:
 * Konstantin: "I pick Rule 13 which is based on the observation that
   '[m]any readers will skim over formulas on their first reading of
   your exposition'. I've also made this observation for myself."
-* Thomas: "Personally I liked Rule 20 best. One reason for this is the style it is written in. The maxims can be hard to understand because they are guidlines and bad examples breaking these guidelines in a single sentence. A counter-example in itself. Discussing eagerly, these maxims were analyzed by the seminar. Each part of this rule, had their own bit of wittiness and made me think about grammar more than I normally like to. It relayed its messages about grammar in a clear and smart way."  
+* Thomas: "Personally I liked Rule 20 best. One reason for this is the style it is written in. The maxims can be hard to understand because they are guidlines and bad examples breaking these guidelines in a single sentence. A counter-example in itself. Discussing eagerly, these maxims were analyzed by the seminar. Each part of this rule, had their own bit of wittiness and made me think about grammar more than I normally like to. It relayed its messages about grammar in a clear and smart way."
 
 # Correct Punctutation
 
@@ -65,7 +77,14 @@ Short and very readable easy on the (im)proper use of language. Applies to scien
 - William Strunk Jr. and E. B. White (2009), The Elements of Style,
   4th edition
 - William Zinsser (2006), On Writing Well, 7th edition
+- [de] Wolf Schneider
 
 ## Math/Computer Science writing
 
 ## Thesis/Paper writing
+
+# History
+
+This post is based on the [PGBBS](https://pgbbs.github.io/)-blog post
+[How to Write Scientific
+English](https://pgbbs.github.io/_pages/write-scientific-english/).
