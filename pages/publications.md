@@ -50,7 +50,7 @@ href="https://www.csauthors.net/distance/paul-erdos/konstantin%20ziegler">3</a>
 href="http://www.ams.org/mathscinet/collaborationDistance.html?group_source=718087">MathSciNet</a>,
 subscription required).
 
-Two remarks concerning publications:
+Two remarks concerning publications are in order:
 
 - In most areas of my research, the co-authors are listed in
   alphabetic order. The American Mathematical Society has described this
@@ -59,8 +59,8 @@ Two remarks concerning publications:
   Culture of Research and Scholarship in Matheamtics: Joint Research and
   Its Publication</a>. I prefer to follow this practice.
 - In recent times, bibliometric data is increasingly used to evaluate
-  research. This is may be problematic, in particular when used to
-  compare between disciplines. The Deutsche
+  research. This is problematic, in particular when used across
+  different disciplines. The Deutsche
   Mathematiker-Vereinigung (German Mathematical Society) has published
   a <a
   href="https://www.mathematik.de/images/DMV/dmvm-2019-0040.pdf">position
