@@ -39,9 +39,8 @@ Digital Library</a>. <a
 href="http://www.phdcomics.com/comics/archive.php?comicid=1533">Open
 access</a> to my research is provided by the <a
 href="http://arxiv.org/a/ziegler_k_1">arXiv</a> (<a
-href="http://front.math.ucdavis.edu/search?a=konstantin+ziegler&amp;s=Abstracts">abstracts</a>).
-
-My co-authors are Raoul Blankertz, Joachim von zur Gathen, Mark
+href="http://front.math.ucdavis.edu/search?a=konstantin+ziegler&amp;s=Abstracts">abstracts</a>). My
+co-authors are Raoul Blankertz, Joachim von zur Gathen, Mark
 Giesbrecht, Julian Lorenz, Yona Raekow, Andreas Ruffing, Eva Viehmann,
 Alfredo Viola, and Johannes Zollmann. Thanks to them, my <a
 href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
@@ -49,13 +48,24 @@ number</a> is at most <a
 href="https://www.csauthors.net/distance/paul-erdos/konstantin%20ziegler">3</a>
 (<a
 href="http://www.ams.org/mathscinet/collaborationDistance.html?group_source=718087">MathSciNet</a>,
-subscription required). One more thing: In most areas of my research,
-the co-authors are listed in alphabetic order. The American
-Mathematical Society has described this circumstance (and the
-reasoning behind it) in their 2004 Statement on <a
-href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
-Culture of Research and Scholarship in Matheamtics: Joint Research and
-Its Publication</a>. I prefer to follow this practice.
+subscription required).
+
+Two remarks concerning publications:
+
+- In most areas of my research, the co-authors are listed in
+  alphabetic order. The American Mathematical Society has described this
+  circumstance (and the reasoning behind it) in their 2004 Statement on
+  <a href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
+  Culture of Research and Scholarship in Matheamtics: Joint Research and
+  Its Publication</a>. I prefer to follow this practice.
+- In recent times, bibliometric data is increasingly used to evaluate
+  research. This is may be problematic, in particular when used to
+  compare between disciplines. The Deutsche
+  Mathematiker-Vereinigung (German Mathematical Society) has published
+  a <a
+  href="https://www.mathematik.de/images/DMV/dmvm-2019-0040.pdf">position
+  paper</a> (in German) to serve as a basis for a discussion. It is
+  highly recommended.
 
 # Dissertation
 
