@@ -10,7 +10,15 @@ show_meta: false
 > which they can learn.
 <cite>Albert Einstein</cite>
 
-## Winter 2018
+## Summer 2019
+
+- Lecture: Analysis I
+- Lecture: Analysis II
+- Lab Course: Experimental Physics I
+- Seminar: Wissen vor der Kamera
+- Seminar: Praxisseminar Ingenieurpädagogik
+
+## Winter 2018/19
 
 - Lecture &amp; Tutorial: Analysis 3
 - Lecture &amp; Tutorial: Ingenieurmathematik 1
@@ -27,7 +35,7 @@ show_meta: false
 - Seminar: Drones
 
 
-## Winter 2018
+## Winter 2017/18
 
   - Lecture &amp; Tutorial: Mathematische Methoden der Physik 1
 
