@@ -10,6 +10,13 @@ show_meta: false
 > which they can learn.
 <cite>Albert Einstein</cite>
 
+## Summer 2021
+
+- Lab Course: Experimental Physics I
+- Lecture: Robotics
+- Seminar: Mathematics
+- Seminar: Gamification
+
 ## Summer 2019
 
 - Lecture: Analysis I
