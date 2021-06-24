@@ -56,7 +56,7 @@ Two remarks concerning publications are in order:
   alphabetic order. The American Mathematical Society has described this
   circumstance (and the reasoning behind it) in their 2004 Statement on
   <a href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
-  Culture of Research and Scholarship in Matheamtics: Joint Research and
+  Culture of Research and Scholarship in Mathematics: Joint Research and
   Its Publication</a>. I prefer to follow this practice.
 - In recent times, bibliometric data is increasingly used to evaluate
   research. This is problematic, in particular when used across
