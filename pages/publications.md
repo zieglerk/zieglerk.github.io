@@ -44,10 +44,10 @@ co-authors are Raoul Blankertz, Joachim von zur Gathen, Mark
 Giesbrecht, Julian Lorenz, Yona Raekow, Andreas Ruffing, Eva Viehmann,
 Alfredo Viola, and Johannes Zollmann. Thanks to them, my <a
 href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erd&#337;s
-number</a> is at most <a
-href="https://www.csauthors.net/distance/paul-erdos/konstantin%20ziegler">3</a>
+number</a> is at most 3
 (<a
-href="http://www.ams.org/mathscinet/collaborationDistance.html?group_source=718087">MathSciNet</a>,
+href="https://www.csauthors.net/distance/paul-erdos/konstantin%20ziegler">csauthors</a>, <a
+href="http://www.ams.org/mathscinet/collaborationDistance.html?group_source=718087">MathSciNet</a> --
 subscription required).
 
 Two remarks concerning publications are in order:
