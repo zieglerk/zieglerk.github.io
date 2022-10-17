@@ -4,6 +4,15 @@ title: "Teaching"
 permalink: "/teaching/"
 breadcrumb: true
 show_meta: false
+header: no
+image:
+    img: "1915.560-A-Holiday-860x484.jpg"
+    url: "https://www.artic.edu/artworks/71573/a-holiday"
+    title: "A Holiday"
+    author: "Edward Henry Potthast"
+    license: "CC0 (Public Domain)"
+    license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
+
 ---
 
 > I never teach my pupils, I only attempt to provide the conditions in
