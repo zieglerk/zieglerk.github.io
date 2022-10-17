@@ -12,7 +12,6 @@ image:
     author: "NASA/Apollo 11 via Wikimedia Commons"
     license: "CC0 (Public Domain)"
     license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
-
 ---
 
 > All is fair in war, love, and mathematics.
