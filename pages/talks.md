@@ -20,7 +20,7 @@ image:
 
 ## Zaubern mit de-Bruijn-Folgen
 
-- HAW Landshut, LLL -- Ludwig's Last Lecture, Landshut, 22 Jan 2022
+- HAW Landshut, LLL -- Ludwig's Last Lecture, Landshut, 22 Jan 2020
 
 ## Party, Party, Multi-Party
 
