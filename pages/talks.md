@@ -16,7 +16,7 @@ image:
 
 ## Was macht der Rechner, was macht der Richter? – Zum künftigen Einsatz von Künstlicher Intelligenz in der Rechtsprechung
 
-- Verwaltungsrichtervereinigung NRW, Münster, 27 Oct 2022
+- Verwaltungsrichtervereinigung NRW, [Mitgliederversammlung 2022](https://vrv-nrw.de/2022/10/25/einladung-zur-mitgliederversammlung-am-27-10-2022/), Münster, 27 Oct 2022
 
 ## Zaubern mit de-Bruijn-Folgen
 
