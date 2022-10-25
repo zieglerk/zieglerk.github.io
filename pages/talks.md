@@ -14,6 +14,18 @@ image:
     license-url: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
+## Was macht der Rechner, was macht der Richter? – Zum künftigen Einsatz von Künstlicher Intelligenz in der Rechtsprechung
+
+- Verwaltungsrichtervereinigung NRW, Münster, 27 Oct 2022
+
+## Zaubern mit de-Bruijn-Folgen
+
+- HAW Landshut, LLL -- Ludwig's Last Lecture, Landshut, 22 Jan 2022
+
+## Party, Party, Multi-Party
+
+- HAW Landshut, mathematische Weihnachtsvorlesung, Landshut, 20 Dec 2018
+
 ## Representation Learning and Transfer Learning
 
 - IRXIYS summer school “Big Data and Business: Methods, Technologies
