@@ -4,6 +4,15 @@ title: "Software"
 permalink: "/software/"
 breadcrumb: true
 show_meta: false
+header: no
+image:
+    img: "800x600-Turing-bombe-rebuild.jpg"
+    url: "https://www.flickr.com/photos/34689432@N00/6315613488"
+    title: "Bombe"
+    author: "Timitrius"
+    license: "CC BY-SA 2.0"
+    license-url: "https://creativecommons.org/licenses/by-sa/2.0/"
+
 ---
 
 > In theory, there is no difference between theory and
