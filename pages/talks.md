@@ -6,12 +6,12 @@ breadcrumb: true
 show_meta: false
 header: no
 image:
-    img: "Landshut-1024x553.jpg"
-    url: "https://flic.kr/p/jfxE5v"
-    title: "Landshut, St. Martin"
-    author: "Polybert49 via flickr"
-    license: "CC BY-SA 2.0"
-    license-url: "https://creativecommons.org/licenses/by-sa/2.0/"
+    img: "800px-La_scuola_di_Atene.jpg"
+    url: "https://commons.wikimedia.org/wiki/File:La_scuola_di_Atene.jpg"
+    title: "La Scuola di Atene"
+    author: "Raphael"
+    license: "Public domain, via Wikimedia Commons"
+    license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
 ## Was macht der Rechner, was macht der Richter? – Zum künftigen Einsatz von Künstlicher Intelligenz in der Rechtsprechung
