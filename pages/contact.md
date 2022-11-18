@@ -42,4 +42,4 @@ My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
 
 This is a purely private page of myself and not an official
 publication of my university. Take the views and advice presented here
-as is and use at your own risk.
+as they are and use them at your own risk.
