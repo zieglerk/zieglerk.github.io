@@ -20,7 +20,7 @@ My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
 
 # Visiting Address
 
-`Office C 149` [Map][4]<br/>
+`Office C1.27` [Map][4]<br/>
 `Hochschule Landshut` [Map][5]<br/>
 `Am Lurzenhof 1`<br/>
 `84036 Landshut`
@@ -43,4 +43,3 @@ My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
 This is a purely private page of myself and not an official
 publication of my university. Take the views and advice presented here
 as is and use at your own risk.
-
