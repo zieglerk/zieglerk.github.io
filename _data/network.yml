@@ -22,10 +22,11 @@
 
 - name: "Using Backstretch by Scott Robbin"
   url: "http://srobbin.com/jquery-plugins/backstretch/"
-  class: "sitemap-link"
+  class: "backstretch-link"
   title: "Using Backstretch by Scott Robbin"
 
 - name: "Favicon Glider by Drahoslav (Creative Commons, no attribution)"
   url: "href="http://www.favicon.cc/?action=icon&amp;file_id=764759"
-  class: "sitemap-link"
+  class: "favicon-link"
   title: "Favicon Glider by Drahoslav (Creative Commons, no attribution)"
+  
