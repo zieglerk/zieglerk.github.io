@@ -19,12 +19,56 @@ image:
 > which they can learn.
 <cite>Albert Einstein</cite>
 
+## Winter 2022/23
+
+- Tutorial: IT-Sicherheit
+- Lecture &amp; Tutorial: Numerik
+- Lecture &amp; Tutorial: Diskrete Mathematik
+- Seminar: Studienprojekt Mathematik
+- Seminar: Studienprojekt Informatik
+
+## Sommer 2022 (sabbitical)
+
+## Winter 2021/22
+
+- Lecture &amp; Tutorial: Naturwissenschaftliche Grundlagen
+  (Studiengang Physician Assistant, B. Sc.)
+- Seminar: Studienprojekt Mathematik (Studiengang Ingenieurpädagogik,
+  B. Eng.)
+- Lecture: Robotik (Studiengang Ingenieurpsychologie,
+  B. Sc.)
+- Seminar: Wissenschaftliches Arbeiten (Studiengang
+  neue Medien und interkulturelle Kommunikation, B. A.)
+- Seminar: Propädeutikum wiss. Arbeiten (Studiengang
+  Gebärdensprachdolmetschen, B. A.)
+- Seminar: Digitale Technologien (Studium Generale)
+
 ## Summer 2021
 
 - Lab Course: Experimental Physics I
 - Lecture: Robotics
 - Seminar: Mathematics
 - Seminar: Gamification
+
+## Winter 2020/21
+
+- Lab Course: Praktikum Physik II (IP)
+- Seminar: Begleitseminar Ringvorlesung (Studium Generale)
+- Seminar: wiss. Arbeiten (IPSY)
+- Seminar: Propädeutikum wiss. Arbeiten (GSD)
+
+## Sommer 2020
+
+- Lecture &amp; Tutorial: Robotik (Studiengang Master Informatik)
+- Seminar: Digital Self-Defence & Data Literacy (Studium Generale)
+- Lab Course: Physik I
+
+## Winter 2019/20
+
+- Lecture: Analysis III
+- Tutorial: Math. Methoden der Physik I
+- Lab Course: Physik II
+- Seminar: Ringvorlesung
 
 ## Summer 2019
 
@@ -36,8 +80,8 @@ image:
 
 ## Winter 2018/19
 
-- Lecture &amp; Tutorial: Analysis 3
-- Lecture &amp; Tutorial: Ingenieurmathematik 1
+- Lecture &amp; Tutorial: Analysis III
+- Lecture &amp; Tutorial: Ingenieurmathematik I
 - Lecture &amp; Tutorial (Blended Learning Course): Applied Physics
 - Lab Course: Experimental Physics 2
 - Seminar: HAWllywood
