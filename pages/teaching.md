@@ -21,32 +21,30 @@ image:
 
 ## Winter 2022/23
 
-- Tutorial: IT-Sicherheit
-- Lecture &amp; Tutorial: Numerik
+- Tutorial: IT-Sicherheit (Wirtschaftsinformatik, B. Sc.)
+- Lecture &amp; Tutorial: Numerik (Informatik, B. Sc.)
 - Lecture &amp; Tutorial: Diskrete Mathematik
-- Seminar: Studienprojekt Mathematik
-- Seminar: Studienprojekt Informatik
+- Seminar: Studienprojekt Mathematik (Ingenieurpädagogik, B. Eng.)
+- Seminar: Studienprojekt Informatik (Ingenieurpädagogik, B. Eng.)
 
-## Sommer 2022 (sabbitical)
+## Sommer 2022 (sabbatical)
 
 ## Winter 2021/22
 
 - Lecture &amp; Tutorial: Naturwissenschaftliche Grundlagen
-  (Studiengang Physician Assistant, B. Sc.)
-- Seminar: Studienprojekt Mathematik (Studiengang Ingenieurpädagogik,
+  (Physician Assistant, B. Sc.)
+- Seminar: Studienprojekt Mathematik (Ingenieurpädagogik,
   B. Eng.)
-- Lecture: Robotik (Studiengang Ingenieurpsychologie,
+- Lecture: Robotik (Ingenieurpsychologie,
   B. Sc.)
-- Seminar: Wissenschaftliches Arbeiten (Studiengang
-  neue Medien und interkulturelle Kommunikation, B. A.)
-- Seminar: Propädeutikum wiss. Arbeiten (Studiengang
-  Gebärdensprachdolmetschen, B. A.)
+- Seminar: Wissenschaftliches Arbeiten (neue Medien und interkulturelle Kommunikation, B. A.)
+- Seminar: Propädeutikum wiss. Arbeiten (Gebärdensprachdolmetschen, B. A.)
 - Seminar: Digitale Technologien (Studium Generale)
 
 ## Summer 2021
 
-- Lab Course: Experimental Physics I
-- Lecture: Robotics
+- Lab Course: Experimental Physics I (Ingenieurpädagogik, B. Eng.)
+- Lecture: Robotik (Ingenieurpsychologie, B. Sc.)
 - Seminar: Mathematics
 - Seminar: Gamification
 
@@ -57,7 +55,7 @@ image:
 - Seminar: wiss. Arbeiten (IPSY)
 - Seminar: Propädeutikum wiss. Arbeiten (GSD)
 
-## Sommer 2020
+## Summer 2020
 
 - Lecture &amp; Tutorial: Robotik (Studiengang Master Informatik)
 - Seminar: Digital Self-Defence & Data Literacy (Studium Generale)
@@ -80,19 +78,21 @@ image:
 
 ## Winter 2018/19
 
-- Lecture &amp; Tutorial: Analysis III
-- Lecture &amp; Tutorial: Ingenieurmathematik I
+- Lecture &amp; Tutorial: Analysis III (Ingenieurpädagogik, B. Eng.)
+- Lecture &amp; Tutorial: Ingenieurmathematik I (Elektro- und
+  Informationstechnik, B. Eng.)
 - Lecture &amp; Tutorial (Blended Learning Course): Applied Physics
-- Lab Course: Experimental Physics 2
-- Seminar: HAWllywood
+- Lab Course: Experimental Physics 2 (Ingenieurpädagogik, B. Eng.)
+- Seminar: HAWllywood (Studium Generale)
 
 
 ## Summer 2018
 
-- Lecture &amp; Tutorial: Analysis 1 & 2
-- Lecture &amp; Tutorial: Mathematische Methoden der Physik 2
-- Lab Course: Experimental Physics 1
-- Seminar: Drones
+- Lecture &amp; Tutorial: Analysis I (Ingenieurpädagogik, B. Eng.)
+- Lecture &amp; Tutorial: Analysis II (Ingenieurpädagogik, B. Eng.)
+- Lecture &amp; Tutorial: Mathematische Methoden der Physik II (Ingenieurpädagogik, B. Eng.)
+- Lab Course: Experimentalphysik I (Ingenieurpädagogik, B. Eng.)
+- Seminar: Dronen (Studium Generale)
 
 
 ## Winter 2017/18
