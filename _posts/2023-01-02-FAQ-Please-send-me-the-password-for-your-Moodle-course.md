@@ -1,0 +1,35 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: "FAQ"
+title: "Please send me the password for your Moodle course"
+teaser: "Answer to this (frequent) request."
+categories:
+  - teaching
+tags:
+  - students
+  - FAQs
+  - de
+#
+# Styling
+#
+image:
+  thumb: "you-can-delete-me-thumb.png"
+---
+
+Die Einschreibeschlüssel für meine Moodle-Kurse teile ich in der
+ersten Vorlesungswoche mit. Desweiteren können Sie sie auch jederzeit nach
+der Veranstaltung bei mir persönlich erfragen. Oder Sie fragen einfach
+eine/n Ihrer Kommilitonen.
+
+* Variante: Ich habe mich für eine Prüfung bei Ihnen angemeldet, aber
+an der Veranstaltung nicht teilgenommen. Bitte senden Sie mir das
+Passwort für den Moodle Kurs.
+
+Grundsätzlich die gleiche Antwort wie oben. Dann aber noch der
+Hinweis, dass das Material im Moodle Kursraum zur Unterstützung der
+Lehrveranstaltung dient und keinen Anspruch auf Vollständigkeit
+erhebt. Das ist einer der Unterschiede zwischen einer
+Präsenzhochschule und einer Fern-Uni. Idealerweise informieren Sie sich bei Ihren Kommilitonen was sonst noch so alles gemacht wurde.
