@@ -3,11 +3,6 @@ title: "How to contribute"
 layout: page
 ---
 
-This is a <a href="https://communitywiki.org/wiki/DoOcracy">do-ocracy</a>:
-  if you think something should be on these pages, put it here. If you
-  see something that could be improved, do it. (Don't be afraid to
-  break anything -- everything's version-controlled.)
-
 Great! You're most welcome to contribute. Don't be shy, anything that
 you consider even remotely relevant already has 1 (potential) reader.
 :smile: Just get a quick 'n' dirty draft out quickly. Or edit somebody else's
