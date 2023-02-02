@@ -14,6 +14,9 @@ on this topic is Wolf Schneider's "Deutsch fürs Leben".
 "Treat the reader's time as more valuable than your own." -- Josh
 Bernoff, Writing Without Bullshit, Harper Business
 
+"Einer muss sich quälen, entweder der Schreiber oder der Leser." --
+Wolf Schneider
+
 - Get to the point.
 - Avoid passive constructions.
 - Eliminate jargon, qualifiers, and weasel words ("probably",
@@ -88,3 +91,10 @@ Short and very readable easy on the (im)proper use of language. Applies to scien
 This post is based on the [PGBBS](https://pgbbs.github.io/)-blog post
 [How to Write Scientific
 English](https://pgbbs.github.io/_pages/write-scientific-english/).
+
+# Outlook
+
+regarding writing fiction, there's a significant overlap. See for
+example
+
+- [Stephen King's 20 Rules for Writers]( https://www.openculture.com/2023/01/stephen-kings-20-rules-for-writers.html)
