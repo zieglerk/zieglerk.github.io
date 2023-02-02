@@ -25,6 +25,11 @@ image:
   Holmes!](https://netzpolitik.org/2023/ende-von-schutzfristen-excellent-holmes/#:~:text=Auch%20der%20US%2DUrheberrechtsschutz%2C%20der,den%20neu%20gemeinfrei%20werdenden%20Werken.),
   netzpolitik.org, 02 Jan 2023, zuletzt abgerufen am 31 Jan 2023.
 
+- Leonhard Dobusch (2023), [Neues aus dem Fernsehrat (94): Liebe auf
+  den zweiten
+  Blick](https://netzpolitik.org/2023/neues-aus-dem-fernsehrat-94-liebe-auf-den-zweiten-blick/),
+  netzpolitik.org, 16 Jan 2023, zuletzt abgerufen am 02 Feb 2023.
+
   Verständnisfragen:
   - Wann enden Schutzfristen in Europa? Wann in USA?
   - Welche Werke wurden mit Ablauf des letzten Jahres gemeinfrei?
