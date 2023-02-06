@@ -14,8 +14,7 @@ on this topic is Wolf Schneider's "Deutsch fürs Leben".
 "Treat the reader's time as more valuable than your own." -- Josh
 Bernoff, Writing Without Bullshit, Harper Business
 
-"Einer muss sich quälen, entweder der Schreiber oder der Leser." --
-Wolf Schneider
+"Einer muß sich plagen, der Schreiber oder der Leser." -- Wolf Schneider
 
 - Get to the point.
 - Avoid passive constructions.
