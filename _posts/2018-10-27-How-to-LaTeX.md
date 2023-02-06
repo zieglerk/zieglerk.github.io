@@ -133,3 +133,10 @@ for a list of libraries
 
 An [earlier version](https://pgbbs.github.io/_pages/LaTeX/) of this
 document was published in the blog of [PGBBS](https://pgbbs.github.io).
+
+# TODO
+
+LaTeX-Vorlagen f\"ur
+- Projektarbeiten (Studienprojekt Mathematik im Studiengang Ingenieurpädagogik)
+- Begleithefte zum Landshuter Lernlabor (LLL)
+- Bachelor-Arbeiten (Mathematik an der Hochschule Landshut)
