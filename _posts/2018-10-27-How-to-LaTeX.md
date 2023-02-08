@@ -46,6 +46,27 @@ a minimal latex document contains :
 
 Save the 5 lines above as `minimal.tex`, open it with the editor and compile.
 
+# Introduction to LaTeX
+
+There's the classic [The not so short introduction to
+LaTeX](http://tug.ctan.org/info/lshort/english/lshort.pdf) by Tobias
+Oetker, Hubert Partl, Irene Hyna and Elisabeth Schlegl. It's well worth
+(re-)reading and even ships with most LaTeX distributions. Just try
+
+'''
+$ texdoc lshort
+'''
+
+More specifically, for typesetting mathematics, there's the [Short Math
+Guide for
+LaTeX](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
+by Michael Downes, updated by Barbara Beeton. You also find your local
+version with
+
+'''
+$ texdoc short-math-guide
+'''
+
 # Write LaTeX
 
 Armin Gerl has provided a template for the (German) master thesis
