@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "FAQ"
-title: "Please send me the password for your Moodle course"
+title: "Vorlesungs-Orga"
 teaser: "Answer to this (frequent) request."
 categories:
   - teaching
@@ -18,6 +18,8 @@ tags:
 image:
   thumb: "you-can-delete-me-thumb.png"
 ---
+
+* Please send me the password for your Moodle course
 
 Die Einschreibeschlüssel für meine Moodle-Kurse teile ich in der
 ersten Vorlesungswoche mit. Desweiteren können Sie sie auch jederzeit nach
@@ -33,3 +35,10 @@ Hinweis, dass das Material im Moodle Kursraum zur Unterstützung der
 Lehrveranstaltung dient und keinen Anspruch auf Vollständigkeit
 erhebt. Das ist einer der Unterschiede zwischen einer
 Präsenzhochschule und einer Fern-Uni. Idealerweise informieren Sie sich bei Ihren Kommilitonen was sonst noch so alles gemacht wurde.
+
+* Wird der Stoff für die Prüfung irgendwie eingeschränkt?
+
+Grundsätzlich Nein. Zumindest nicht explizit. Beim Durcharbeiten der
+Unterlagen und insbesondere der Übungsaufgaben werden Sie aber
+Schwerpunkte identifizieren können. Die sind im Allgemeinen ein guter
+Indikator für Schwerpunkte in der Prüfung.
