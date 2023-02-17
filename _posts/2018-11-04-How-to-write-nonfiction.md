@@ -23,6 +23,12 @@ Bernoff, Writing Without Bullshit, Harper Business
 - Identify your audience and don't be shy about addressing them in the
   second person.
 
+# from Blaise Pascal -- and several others
+
+"If I had more time, I would have written a shorter letter." -- see
+[here](https://quoteinvestigator.com/2012/04/28/shorter-letter/) for
+the source and variants
+
 # from Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1987), [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 
 We went over the first section (pp. 3--8) together. As a
