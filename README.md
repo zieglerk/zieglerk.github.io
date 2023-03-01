@@ -74,6 +74,9 @@ Blog posts are category
 Blog-roll gets a header picture,
 Individual posts get *no* thumbnail.
 
+The research page features link to blogposts tagged 'research'. If you
+want this, add this for other pages (e.g. teaching) as well.
+
 # @Future
 
 ## TODOs
