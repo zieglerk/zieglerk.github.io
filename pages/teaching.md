@@ -19,15 +19,25 @@ image:
 > which they can learn.
 <cite>Albert Einstein</cite>
 
+## Summer 2023
+
+- Lecture &amp; Tutorial: Robotik (Informatik, M. Sc.)
+- Lecture &amp; Tutorial: Lineare Algebra I (Ingenieurpädagogik, B. Eng.)
+- Lecture &amp; Tutorial: Wissenschaftliches Rechnen II
+  (Ingenieurpädagogik, B. Eng.)
+- Seminar: Proseminar Mathematik (Ingenieurpädagogik, B. Eng.)
+
 ## Winter 2022/23
 
 - Tutorial: IT-Sicherheit (Wirtschaftsinformatik, B. Sc.)
 - Lecture &amp; Tutorial: Numerik (Informatik, B. Sc.)
-- Lecture &amp; Tutorial: Diskrete Mathematik
+- Lecture &amp; Tutorial: Diskrete Mathematik (Ingenieurpädagogik, B. Eng.)
 - Seminar: Studienprojekt Mathematik (Ingenieurpädagogik, B. Eng.)
 - Seminar: Studienprojekt Informatik (Ingenieurpädagogik, B. Eng.)
 
-## Sommer 2022 (sabbatical)
+## Summer 2022
+
+- on sabbatical
 
 ## Winter 2021/22
 
