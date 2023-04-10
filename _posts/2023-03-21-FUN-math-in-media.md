@@ -25,5 +25,7 @@ image:
 - [Maryam Mirzakhani: Die Geheimnisse der
   Fläche](https://www.arte.tv/de/videos/109799-000-A/maryam-mirzakhani/)
   (de, documentation, ARTE TV, available until 31 Dec 2023)
-- [The Map of Mathematics](https://youtu.be/OmJ-4B-mS-Y) (en, 11 min.,
-  Domain of Science)
+- [The Map of Mathematics](https://youtu.be/OmJ-4B-mS-Y) by Domain of
+  Science (en, 11 min.)
+- [Alternative Math](https://www.youtube.com/watch?v=Zh3Yz3PiXZw) by
+  David Maddox (en, 9 min., 2017)
