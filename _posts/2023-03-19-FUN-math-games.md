@@ -18,7 +18,9 @@ image:
   thumb: "you-can-delete-me-thumb.png"
 ---
 
-# The card game [SET](https://en.wikipedia.org/wiki/Set_(card_game))
+# The card game SET
+
+- [Beschreibung](https://en.wikipedia.org/wiki/Set_(card_game)) auf Wikipedia
 
 ## Literature
 
@@ -33,4 +35,20 @@ Comets, The College Mathematics Journal, Vol. 44, No. 4 (September
 
 # Ganita
 
+ein Mathespiel für den Unterricht und für zu Hause
+
+- [Beschreibung]https://www.mathe-im-leben.de/ganita) beim "Verlag"
+- [Material](https://www.imaginary.org/de/hands-on/ganita) zum
+  Download und zur eigenen Bearbeitung als Open Educational Resource
+
+## Literature
+
+- Anja Fetzer (2019), [Spielerisch Lernen im Mathematikunterricht: Das
+  LernspielGanita und seine fachdidaktischen
+  Grundlagen](https://www.mathe-im-leben.de/static/ganita/Mit_GANITA_spielerisch_lernen_im_MU_von_Anja_Fetzer.pdf),
+  Staatsexamensarbeit, Eberhard-Karls-Universität Tübingen
+
 # Hex
+
+- [Beschreibung](https://en.wikipedia.org/wiki/Hex_(board_game)) auf Wikipedia
+- [Erfindungs-Geschichte](https://youtu.be/pTZ3nn2Bge4) als Bonus-Szene in ``A Beautiful Mind''
