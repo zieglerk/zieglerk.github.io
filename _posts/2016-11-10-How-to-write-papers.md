@@ -121,4 +121,6 @@ He makes two points:
 
 # Links
 
-- [Andreas Eschbachs 10-Punkte Text-ÜV](http://www.andreaseschbach.com/schreiben/10punkte/10punkte.html) (deutsch)
+- Andreas Eschbach, [10-Punkte Text-ÜV](http://www.andreaseschbach.com/schreiben/10punkte/10punkte.html) (deutsch)
+
+- RJLiption, [Phrases That Drive Me Crazy](https://rjlipton.wpcomstaging.com/2019/02/28/phrases-that-drive-me-crazy/)
