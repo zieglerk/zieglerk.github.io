@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 subheadline: "META"
-title: "Creative Commons"
+title: "Urheberrecht und Creative Commons"
 teaser: "Licenses (and sources) for (mostly) images. (German)"
 categories:
   - teaching
@@ -18,6 +18,10 @@ tags:
 image:
   thumb: "you-can-delete-me-thumb.png"
 ---
+
+# Urheberrecht in der Wissenschaft
+
+[Ein Überblick für Forschung, Lehre und Bibliotheken](https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/31518_Urheberrecht_in_der_Wissenschaft.html)
 
 # Ausblick: Gemeinfreiheit durch Ablauf von Schutzfristen
 
