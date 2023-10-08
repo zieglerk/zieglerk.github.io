@@ -11,16 +11,18 @@ show_meta: false
 
 `mail AT zieglerk DOT net`
 
-My GnuPG key is [0xC0F6E65E][1]. ([What's GnuPG?][2] [How to!][3])
+My [GnuPG][2] key is [0xB8DC18577B6C144E][6]. ([Query pgp.mit.edu][1], [How to!][3])
 
-[1]: http://pgp.mit.edu:11371/pks/lookup?search=0xC0F6E65E&op=index
+[1]: http://pgp.mit.edu:11371/pks/lookup?search=mail%40zieglerk.net&op=index
+[6]:
+https://keys.openpgp.org/vks/v1/by-fingerprint/1D7C470B5B53F75DD2B77A03B8DC18577B6C144E
 [2]: https://emailselfdefense.fsf.org/en/windows.html
 [3]: http://howtopgp.jugendhackt.de/#/
 
 
 # Visiting Address
 
-`Office C1.27` [Map][4]<br/>
+`Office J2.16` [Map][4]<br/>
 `Hochschule Landshut` [Map][5]<br/>
 `Am Lurzenhof 1`<br/>
 `84036 Landshut`
