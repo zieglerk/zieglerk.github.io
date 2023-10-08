@@ -14,8 +14,7 @@ show_meta: false
 My [GnuPG][1] key is [0xB8DC18577B6C144E][2]. ([Query pgp.mit.edu][3], [How to!][4])
 
 [1]: https://emailselfdefense.fsf.org/en/windows.html
-[2]:
-https://keys.openpgp.org/vks/v1/by-fingerprint/1D7C470B5B53F75DD2B77A03B8DC18577B6C144E
+[2]: https://keys.openpgp.org/vks/v1/by-fingerprint/1D7C470B5B53F75DD2B77A03B8DC18577B6C144E
 [3]: http://pgp.mit.edu:11371/pks/lookup?search=mail%40zieglerk.net&op=index
 [4]: http://howtopgp.jugendhackt.de/#/
 
