@@ -18,12 +18,14 @@ image:
   thumb: "you-can-delete-me-thumb.png"
 ---
 
-# How to run SageMath?
+# How to install SageMath?
 
 The SageMath project has a complete [installation
 guide](https://doc.sagemath.org/html/en/installation/index.html). For
 non-developers, I personally recommend [installation from
-conda-forge](https://doc.sagemath.org/html/en/installation/conda.html).
+conda-forge](https://doc.sagemath.org/html/en/installation/conda.html). If
+you're using Windows and the recommended virtual machine is not an
+option for you, there are also [binaries](https://www.sagemath.org/download-windows.html).
 
 # Can you give me a quick introduction?
 
