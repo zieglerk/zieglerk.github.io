@@ -133,6 +133,7 @@ for a list of libraries
 - [LaTeX
   Basics](https://www.youtube.com/playlist?list=PLuyjaM3Uz-oOS7zcMFaROwrg83KBR1Sui)
   (introduction videos, in German)
+- [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [Begin LaTeX in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
   (short introduction text, in English)
 - Donald E. Knuth (1984),
@@ -150,10 +151,13 @@ for a list of libraries
   [Data Presentation/Visualization](https://github.com/IEEE-SB-Passau/latex-data-presentation)
   with LaTeX by Stephan Lukasczyk
 
-# History
+# Alternative
 
-An [earlier version](https://pgbbs.github.io/_pages/LaTeX/) of this
-document was published in the blog of [PGBBS](https://pgbbs.github.io).
+Wer auf die lokale Installation verzichten möchte, kann auch einen
+Online-Service wie [Overleaf](https://www.overleaf.com/) nutzen. Das
+ist besonders dann charmant, wenn man/frau sich nicht mit den Details
+der Installation und Paketauswahl kümmern möchte und/oder  mit anderen
+gemeinsam an einem Dokument arbeiten möchte.
 
 # TODO
 
@@ -161,3 +165,9 @@ LaTeX-Vorlagen f\"ur
 - Projektarbeiten (Studienprojekt Mathematik im Studiengang Ingenieurpädagogik)
 - Begleithefte zum Landshuter Lernlabor (LLL)
 - Bachelor-Arbeiten (Mathematik an der Hochschule Landshut)
+
+
+# History
+
+An [earlier version](https://pgbbs.github.io/_pages/LaTeX/) of this
+document was published in the blog of [PGBBS](https://pgbbs.github.io).
