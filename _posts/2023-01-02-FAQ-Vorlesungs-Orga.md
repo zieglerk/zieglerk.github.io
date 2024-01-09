@@ -42,3 +42,14 @@ Grundsätzlich Nein. Zumindest nicht explizit. Beim Durcharbeiten der
 Unterlagen und insbesondere der Übungsaufgaben werden Sie aber
 Schwerpunkte identifizieren können. Die sind im Allgemeinen ein guter
 Indikator für Schwerpunkte in der Prüfung.
+
+* Bieten Sie Ihre Veranstaltung auch hybrid an?
+
+Grundsätzlich hat eine Präsenzveranstaltung -- neben den geringeren
+"Reibungsverlusten" in der Kommunikation -- auch den Mehrwert der
+Vernetzung unter den Studierenden. Die Teilnahme (in Präsenz) ist also
+empfohlen. Vermutlich hat Ihre Anfrage unvorhersehbare äußere Umstände
+(Glatteis, Streiks, etc.). Dann bin ich ausnahmsweise damit
+einverstanden, dass Studierende vor Ort meine Veranstaltung
+streamen, aber nicht aufzeichnen. Bitte fragen Sie mich aber
+sicherheitshalber nochmal zu Beginn der Veranstaltung.
