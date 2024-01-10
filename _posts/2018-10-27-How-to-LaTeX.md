@@ -97,11 +97,13 @@ a preview of some
 For presentations, there's the `beamer`-class. For a CV and a (business) letter,
 my choices are `moderncv` and `dinbrief`, respectively.
 
-There are plenty of alternatives: Many departments, work groups,
-conferences, and journals offer their own documentclasses. There are
-also the popular replacements `scrbook`, `scrreprt`, `scrartcl` from
-the KOMA-Script bundle. Here's a
-[list of incompatibilities](https://tex.stackexchange.com/a/73288) for the latter.
+There are plenty of alternatives:
+
+- There are the popular replacements `scrbook`, `scrreprt`, `scrartcl`
+from the KOMA-Script bundle. Here's a [list of incompatibilities](https://tex.stackexchange.com/a/73288).
+- There's the famous [classicthesis](https://www.miede.de/) template
+  by Andre Miede, in particular for PhD thesis.
+- Many departments, work groups, conferences, and journals offer their own documentclasses.
 
 
 ## Maintain your bibliography with BibTeX
