@@ -36,7 +36,9 @@ image:
 
   Verständnisfragen:
   - Wann enden Schutzfristen in Europa? Wann in USA?
-  - Welche Werke wurden mit Ablauf des letzten Jahres gemeinfrei?
+  - Wann ist/war der diesjährige [Public Domain
+    Day](https://de.wikipedia.org/wiki/Kategorie:Wikipedia:Public_Domain_Day)
+    und welche Werke wurden damit gemeinfrei?
     [Tipp
     1](https://www.openculture.com/2023/01/whats-entering-the-public-domain-in-2023.html),
     [Tipp 2](https://www.openculture.com/2024/01/whats-entering-the-public-domain-in-2024.html)
