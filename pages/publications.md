@@ -64,8 +64,10 @@ Two remarks concerning publications are in order:
   Mathematiker-Vereinigung (German Mathematical Society) has published
   a <a
   href="https://www.mathematik.de/images/DMV/dmvm-2019-0040.pdf">position
-  paper</a> (in German) to serve as a basis for a discussion. It is
-  highly recommended.
+  paper</a> (in German) and has also signed the <a
+  href="https://sfdora.org/read/">San Francisco Declaration on
+  Research Assessment</a>. Both are recommended reading when research
+  is evaluated.
 
 # Dissertation
 
