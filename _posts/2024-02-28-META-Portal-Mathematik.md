@@ -51,4 +51,6 @@ zur KI](https://www.i-am.ai/de/index.html).
 - [ix-quadrat](https://www.math.cit.tum.de/math/department/outreach-activities/ix-quadrat/) @TU München
 - [Mathematikum](https://www.mathematikum.de/) @Giessen
 
+- MDMV, Interviewreihe "Mathe studiert -- und dann?"
+
 # TODO Mathematische Erste Hilfe
