@@ -28,6 +28,9 @@ image:
 - [Fermat's Last
   Theorem](https://archive.org/details/horizon-1995-1996-fermats-last-theorem-b-0074rxx-iplayer)
   (en, documentation, BBC, 1996)
+- [N is a Number: A Portrait of Paul
+  Erdos](https://youtu.be/CWkCSvhtf_s?si=cmyD3KTfKBQ-_PZV) (en,
+  documentation)
 - [The Map of Mathematics](https://youtu.be/OmJ-4B-mS-Y) by Domain of
   Science (en, 11 min.)
 - [Alternative Math](https://www.youtube.com/watch?v=Zh3Yz3PiXZw) by
