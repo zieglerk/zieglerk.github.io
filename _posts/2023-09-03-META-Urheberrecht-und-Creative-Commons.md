@@ -45,3 +45,4 @@ image:
 
 Suchmaschinen:
 - Für Werke in der Public Domain: [public.work](https://public.work/)
+- Für Werke mit Creative Commons Lizenzen: [search.creativecommons.org](https://search.creativecommons.org/#main-content-marker)
