@@ -38,3 +38,12 @@ image:
   David Maddox (en, 9 min., 2017)
 - [Solving the Bonnet Problem. A Hands-on Adventure in 17     Chapters](https://www.discretization.de/movies/10/) by Ekaterina
  Eremenko (DMV Medienpreisträgerin 2017)
+
+# Podcasts
+
+- [Geschichten aus der
+  Mathematik](https://detektor.fm/serien/geschichten-aus-der-mathematik)
+  Charlotte Thielmann bei Detektor.fm in Kooperation mit Spektrum der
+  Wissenschaft (de)
+- [The Math Guy](http://profkeithdevlin.com/MathGuy.html) Keith Devlin
+  on NPR (en)
