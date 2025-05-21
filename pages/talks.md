@@ -14,6 +14,10 @@ image:
     license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
+## Berufsbilder in Mathematik & Physik
+
+- Burkhart-Gymnasium Mallersdorf-Pfaffenberg, 20 May 2025
+
 ## Was kann Künstliche Intelligenz? Und was soll Bildung?
 
 - Berufliche Schulen Schönbrunn, Landshut, 26 Jul 2023 (gemeinsam mit
