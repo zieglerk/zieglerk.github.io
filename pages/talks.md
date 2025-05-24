@@ -14,6 +14,10 @@ image:
     license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
+## Meet the Scientist
+
+- MINT-Mai, New Chapter Geisenhausen, 24 May 2025
+
 ## Berufsbilder in Mathematik & Physik
 
 - Burkhart-Gymnasium Mallersdorf-Pfaffenberg, 20 May 2025
