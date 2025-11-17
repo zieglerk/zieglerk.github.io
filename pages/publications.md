@@ -57,7 +57,9 @@ Two remarks concerning publications are in order:
   circumstance (and the reasoning behind it) in their 2004 Statement on
   <a href="https://www.ams.org/profession/leaders/culture/CultureStatement04.pdf">The
   Culture of Research and Scholarship in Mathematics: Joint Research and
-  Its Publication</a>. I prefer to follow this practice.
+  Its Publication</a>. I prefer to follow this practice. <a
+  href="https://academic.oup.com/rev/article-abstract/27/3/238/4959272">Weber
+  (2018)</a> reviews the empirical evidence on the effects of listing authors in alphabetical order.
 - In recent times, bibliometric data is increasingly used to evaluate
   research. This is problematic, in particular when used across
   different disciplines. The Deutsche
