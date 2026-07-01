@@ -14,6 +14,13 @@ image:
     license-url: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
+## Einführung ins wissenschaftliche Arbeiten
+
+- Wissenschaftswoche, Burkhart-Gymnasium
+  Mallersdorf-Pfaffenberg, 30. Januar 2026
+- Workshoptag Wissenschaftliches Arbeiten FOS/BOS Landshut, Hochschule
+  Landshut, 30. Juni 2026
+
 ## Meet the Scientist
 
 - MINT-Mai, New Chapter Geisenhausen, 24 May 2025
